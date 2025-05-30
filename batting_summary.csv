@@ -1,0 +1,917 @@
+Match_no,Match_Between,Team_Innings,Batsman_Name,Batting_Position,Dismissal,Runs,Balls,4s,6s,Strike_Rate
+1,England vs New Zealand,England,Jonny Bairstow,1,c Daryl Mitchell b Mitchell Santner,33,35,4,1,94.300
+1,England vs New Zealand,England,Dawid Malan,2,c Tom Latham b Matt Henry,14,24,2,0,58.300
+1,England vs New Zealand,England,Joe Root,3,b Glenn Phillips,77,86,4,1,89.500
+1,England vs New Zealand,England,Harry Brook,4,c Devon Conway b Rachin Ravindra,25,16,4,1,156.300
+1,England vs New Zealand,England,Moeen Ali,5,b Glenn Phillips,11,17,1,0,64.700
+1,England vs New Zealand,England,Jos Buttler,6,c Tom Latham b Matt Henry,43,42,2,2,102.400
+1,England vs New Zealand,England,Liam Livingstone,7,c Matt Henry b Trent Boult,20,22,3,0,90.900
+1,England vs New Zealand,England,Sam Curran,8,c Tom Latham b Matt Henry,14,19,0,0,73.700
+1,England vs New Zealand,England,Chris Woakes,9,c Will Young b Mitchell Santner,11,12,1,0,91.700
+1,England vs New Zealand,England,Adil Rashid,10,not out,15,13,0,1,115.400
+1,England vs New Zealand,England,Mark Wood,11,not out,13,14,0,0,92.900
+1,England vs New Zealand,New Zealand,Devon Conway,1,not out,152,121,19,3,125.600
+1,England vs New Zealand,New Zealand,Will Young,2,c Jos Buttler b Sam Curran,0,1,0,0,0.000
+1,England vs New Zealand,New Zealand,Rachin Ravindra,3,not out,123,96,11,5,128.100
+2,Pakistan vs Netherlands,Pakistan,Fakhar Zaman,1,c & b Logan van Beek,12,15,3,0,80.000
+2,Pakistan vs Netherlands,Pakistan,Imam-ul-Haq,2,c Aryan Dutt b Paul van Meekeren,15,19,2,0,78.900
+2,Pakistan vs Netherlands,Pakistan,Babar Azam,3,c Saqib Zulfiqar b Colin Ackermann,5,18,0,0,27.800
+2,Pakistan vs Netherlands,Pakistan,Mohammad Rizwan,4,b Bas de Leede,68,75,8,0,90.700
+2,Pakistan vs Netherlands,Pakistan,Saud Shakeel,5,c Saqib Zulfiqar b Aryan Dutt,68,52,9,1,130.800
+2,Pakistan vs Netherlands,Pakistan,Iftikhar Ahmed,6,c Scott Edwards b Bas de Leede,9,11,1,0,81.800
+2,Pakistan vs Netherlands,Pakistan,Mohammad Nawaz,7,run out (Paul van Meekeren/Colin Ackermann),39,43,4,0,90.700
+2,Pakistan vs Netherlands,Pakistan,Shadab Khan,8,b Bas de Leede,32,34,2,1,94.100
+2,Pakistan vs Netherlands,Pakistan,Hasan Ali,9,lbw b Bas de Leede,0,1,0,0,0.000
+2,Pakistan vs Netherlands,Pakistan,Shaheen Afridi,10,not out,13,12,2,0,108.300
+2,Pakistan vs Netherlands,Pakistan,Haris Rauf,11,st Scott Edwards b Colin Ackermann,16,14,2,1,114.300
+2,Pakistan vs Netherlands,Netherlands,Vikramjit Singh,1,c Fakhar Zaman b Shadab Khan,52,67,4,1,77.600
+2,Pakistan vs Netherlands,Netherlands,Max O'Dowd,2,c Shaheen Afridi b Hasan Ali,5,12,1,0,41.700
+2,Pakistan vs Netherlands,Netherlands,Colin Ackermann,3,b Iftikhar Ahmed,17,21,3,0,81.000
+2,Pakistan vs Netherlands,Netherlands,Bas de Leede,4,b Mohammad Nawaz,67,68,6,2,98.500
+2,Pakistan vs Netherlands,Netherlands,Teja Nidamanuru,5,c Fakhar Zaman b Haris Rauf,5,9,1,0,55.600
+2,Pakistan vs Netherlands,Netherlands,Scott Edwards,6,lbw b Haris Rauf,0,2,0,0,0.000
+2,Pakistan vs Netherlands,Netherlands,Saqib Zulfiqar,7,lbw b Shaheen Afridi,10,18,1,0,55.600
+2,Pakistan vs Netherlands,Netherlands,Roelof van der Merwe,8,run out (Babar Azam/Mohammad Rizwan),4,7,0,0,57.100
+2,Pakistan vs Netherlands,Netherlands,Logan van Beek,9,not out,28,28,3,1,100.000
+2,Pakistan vs Netherlands,Netherlands,Aryan Dutt,10,b Hasan Ali,1,2,0,0,50.000
+2,Pakistan vs Netherlands,Netherlands,Paul van Meekeren,11,b Haris Rauf,7,12,1,0,58.300
+3,Afghanistan vs Bangladesh,Afghanistan,Rahmanullah Gurbaz,1,c Tanzid Hasan b Mustafizur Rahman,47,62,4,1,75.800
+3,Afghanistan vs Bangladesh,Afghanistan,Ibrahim Zadran,2,c Tanzid Hasan b Shakib Al Hasan,22,25,3,1,88.000
+3,Afghanistan vs Bangladesh,Afghanistan,Rahmat Shah,3,c Litton Das b Shakib Al Hasan,18,25,1,0,72.000
+3,Afghanistan vs Bangladesh,Afghanistan,Hashmatullah Shahidi,4,c Towhid Hridoy b Mehidy Hasan Miraz,18,38,2,0,47.400
+3,Afghanistan vs Bangladesh,Afghanistan,Najibullah Zadran,5,b Shakib Al Hasan,5,13,0,0,38.500
+3,Afghanistan vs Bangladesh,Afghanistan,Mohammad Nabi,6,b Taskin Ahmed,6,12,0,0,50.000
+3,Afghanistan vs Bangladesh,Afghanistan,Azmatullah Omarzai,7,b Shoriful Islam,22,20,4,0,110.000
+3,Afghanistan vs Bangladesh,Afghanistan,Rashid Khan,8,b Mehidy Hasan Miraz,9,16,1,0,56.300
+3,Afghanistan vs Bangladesh,Afghanistan,Mujeeb Ur Rahman,9,b Mehidy Hasan Miraz,1,4,0,0,25.000
+3,Afghanistan vs Bangladesh,Afghanistan,Naveen-ul-Haq,10,c Towhid Hridoy b Shoriful Islam,0,6,0,0,0.000
+3,Afghanistan vs Bangladesh,Afghanistan,Fazalhaq Farooqi,11,not out,0,3,0,0,0.000
+3,Afghanistan vs Bangladesh,Bangladesh,Tanzid Hasan,1,run out Najibullah Zadran,5,13,1,0,38.500
+3,Afghanistan vs Bangladesh,Bangladesh,Litton Das,2,b Fazalhaq Farooqi,13,18,2,0,72.200
+3,Afghanistan vs Bangladesh,Bangladesh,Mehidy Hasan Miraz,3,c Rahmat Shah b Naveen-ul-Haq,57,73,5,0,78.100
+3,Afghanistan vs Bangladesh,Bangladesh,Najmul Hossain Shanto,4,not out,59,83,3,1,71.100
+3,Afghanistan vs Bangladesh,Bangladesh,Shakib Al Hasan,5,c Fazalhaq Farooqi b Azmatullah Omarzai,14,19,2,0,73.700
+3,Afghanistan vs Bangladesh,Bangladesh,Mustafizur Rahman,6,not out,2,3,0,0,66.700
+4,South Africa vs Sri Lanka,South Africa,Quinton de Kock,1,c Dhananjaya de Silva b Matheesha Pathirana,100,84,12,3,119.000
+4,South Africa vs Sri Lanka,South Africa,Temba Bavuma,2,lbw b Dilshan Madushanka,8,5,2,0,160.000
+4,South Africa vs Sri Lanka,South Africa,Rassie van der Dussen,3,c Sadeera Samarawickrama b Dunith Wellalage,108,110,13,2,98.200
+4,South Africa vs Sri Lanka,South Africa,Aiden Markram,4,c Kasun Rajitha b Dilshan Madushanka,106,54,14,3,196.300
+4,South Africa vs Sri Lanka,South Africa,Heinrich Klaasen,5,c Dasun Shanaka b Kasun Rajitha,32,20,1,3,160.000
+4,South Africa vs Sri Lanka,South Africa,David Miller,6,not out,39,21,3,2,185.700
+4,South Africa vs Sri Lanka,South Africa,Marco Jansen,7,not out,12,7,0,1,171.400
+4,South Africa vs Sri Lanka,Sri Lanka,Pathum Nissanka,1,b Marco Jansen,0,3,0,0,0.000
+4,South Africa vs Sri Lanka,Sri Lanka,Kusal Janith Perera,2,b Marco Jansen,7,15,1,0,46.700
+4,South Africa vs Sri Lanka,Sri Lanka,Kusal Mendis,3,c Heinrich Klaasen b Kagiso Rabada,76,42,4,8,181.000
+4,South Africa vs Sri Lanka,Sri Lanka,Sadeera Samarawickrama,4,c Marco Jansen b Gerald Coetzee,23,19,3,1,121.100
+4,South Africa vs Sri Lanka,Sri Lanka,Charith Asalanka,5,c Reeza Hendricks sub b Lungi Ngidi,79,65,8,4,121.500
+4,South Africa vs Sri Lanka,Sri Lanka,Dhananjaya de Silva,6,c Andile Phehlukwayo sub b Keshav Maharaj,11,14,1,0,78.600
+4,South Africa vs Sri Lanka,Sri Lanka,Dasun Shanaka,7,b Keshav Maharaj,68,62,6,3,109.700
+4,South Africa vs Sri Lanka,Sri Lanka,Dunith Wellalage,8,c Heinrich Klaasen b Gerald Coetzee,0,1,0,0,0.000
+4,South Africa vs Sri Lanka,Sri Lanka,Kasun Rajitha,9,c Aiden Markram b Gerald Coetzee,33,31,4,1,106.500
+4,South Africa vs Sri Lanka,Sri Lanka,Matheesha Pathirana,10,b Kagiso Rabada,5,16,1,0,31.300
+4,South Africa vs Sri Lanka,Sri Lanka,Dilshan Madushanka,11,not out,4,2,1,0,200.000
+5,Australia vs India,Australia,David Warner,1,c & b Kuldeep Yadav,41,52,6,0,78.800
+5,Australia vs India,Australia,Mitchell Marsh,2,c Virat Kohli b Jasprit Bumrah,0,6,0,0,0.000
+5,Australia vs India,Australia,Steve Smith,3,b Ravindra Jadeja,46,71,5,0,64.800
+5,Australia vs India,Australia,Marnus Labuschagne,4,c KL Rahul b Ravindra Jadeja,27,41,1,0,65.900
+5,Australia vs India,Australia,Glenn Maxwell,5,b Kuldeep Yadav,15,25,1,0,60.000
+5,Australia vs India,Australia,Alex Carey,6,lbw b Ravindra Jadeja,0,2,0,0,0.000
+5,Australia vs India,Australia,Cameron Green,7,c Hardik Pandya b Ravichandran Ashwin,8,20,0,0,40.000
+5,Australia vs India,Australia,Pat Cummins,8,c Shreyas Iyer b Jasprit Bumrah,15,24,1,1,62.500
+5,Australia vs India,Australia,Mitchell Starc,9,c Shreyas Iyer b Mohammed Siraj,28,35,2,1,80.000
+5,Australia vs India,Australia,Adam Zampa,10,c Virat Kohli b Hardik Pandya,6,20,0,0,30.000
+5,Australia vs India,Australia,Josh Hazlewood,11,not out,1,1,0,0,100.000
+5,Australia vs India,India,Rohit Sharma,1,lbw b Josh Hazlewood,0,6,0,0,0.000
+5,Australia vs India,India,Ishan Kishan,2,c Cameron Green b Mitchell Starc,0,1,0,0,0.000
+5,Australia vs India,India,Virat Kohli,3,c Marnus Labuschagne b Josh Hazlewood,85,116,6,0,73.300
+5,Australia vs India,India,Shreyas Iyer,4,c David Warner b Josh Hazlewood,0,3,0,0,0.000
+5,Australia vs India,India,KL Rahul,5,not out,97,115,8,2,84.300
+5,Australia vs India,India,Hardik Pandya,6,not out,11,8,0,1,137.500
+6,New Zealand vs Netherlands,New Zealand,Devon Conway,1,c Bas de Leede b Roelof van der Merwe,32,40,5,1,80.000
+6,New Zealand vs Netherlands,New Zealand,Will Young,2,c Bas de Leede b Paul van Meekeren,70,80,7,2,87.500
+6,New Zealand vs Netherlands,New Zealand,Rachin Ravindra,3,c Scott Edwards b Roelof van der Merwe,51,51,3,1,100.000
+6,New Zealand vs Netherlands,New Zealand,Daryl Mitchell,4,b Paul van Meekeren,48,47,5,2,102.100
+6,New Zealand vs Netherlands,New Zealand,Tom Latham,5,st Scott Edwards b Aryan Dutt,53,46,6,1,115.200
+6,New Zealand vs Netherlands,New Zealand,Glenn Phillips,6,c Scott Edwards b Bas de Leede,4,4,1,0,100.000
+6,New Zealand vs Netherlands,New Zealand,Mark Chapman,7,c Roelof van der Merwe b Aryan Dutt,5,13,0,0,38.500
+6,New Zealand vs Netherlands,New Zealand,Mitchell Santner,8,not out,36,17,3,2,211.800
+6,New Zealand vs Netherlands,New Zealand,Matt Henry,9,not out,10,4,0,1,250.000
+6,New Zealand vs Netherlands,Netherlands,Vikramjit Singh,1,b Matt Henry,12,20,1,0,60.000
+6,New Zealand vs Netherlands,Netherlands,Max O'Dowd,2,lbw b Mitchell Santner,16,31,2,0,51.600
+6,New Zealand vs Netherlands,Netherlands,Colin Ackermann,3,c Matt Henry b Mitchell Santner,69,73,5,0,94.500
+6,New Zealand vs Netherlands,Netherlands,Bas de Leede,4,c Trent Boult b Rachin Ravindra,18,25,3,0,72.000
+6,New Zealand vs Netherlands,Netherlands,Teja Nidamanuru,5,run out (Lockie Ferguson/Tom Latham),21,26,2,1,80.800
+6,New Zealand vs Netherlands,Netherlands,Scott Edwards,6,c & b Mitchell Santner,30,27,2,1,111.100
+6,New Zealand vs Netherlands,Netherlands,Sybrand Engelbrecht,7,c Devon Conway b Matt Henry,29,34,3,0,85.300
+6,New Zealand vs Netherlands,Netherlands,Roelof van der Merwe,8,c Matt Henry b Mitchell Santner,1,6,0,0,16.700
+6,New Zealand vs Netherlands,Netherlands,Ryan Klein,9,lbw b Mitchell Santner,8,15,0,0,53.300
+6,New Zealand vs Netherlands,Netherlands,Aryan Dutt,10,b Matt Henry,11,20,0,1,55.000
+6,New Zealand vs Netherlands,Netherlands,Paul van Meekeren,11,not out,4,3,1,0,133.300
+7,England vs Bangladesh,England,Jonny Bairstow,1,b Shakib Al Hasan,52,59,8,0,88.136
+7,England vs Bangladesh,England,Dawid Malan,2,b Mahedi Hasan,140,107,16,5,130.841
+7,England vs Bangladesh,England,Joe Root,3,c Mushfiqur Rahim b Shoriful Islam,82,68,8,1,120.588
+7,England vs Bangladesh,England,Jos Buttler,4,b Shoriful Islam,20,10,1,1,200.000
+7,England vs Bangladesh,England,Harry Brook,5,c Litton Das b Mahedi Hasan,20,15,3,0,133.333
+7,England vs Bangladesh,England,Liam Livingstone,6,b Shoriful Islam,0,1,0,0,0.000
+7,England vs Bangladesh,England,Sam Curran,7,c Najmul Hossain Shanto b Mahedi Hasan,11,15,1,0,73.333
+7,England vs Bangladesh,England,Chris Woakes,8,c Mahedi Hasan b Taskin Ahmed,14,11,2,0,127.273
+7,England vs Bangladesh,England,Adil Rashid,9,c Najmul Hossain Shanto b Mahedi Hasan,11,7,1,0,157.143
+7,England vs Bangladesh,England,Mark Wood,10,not out,6,5,1,0,120.000
+7,England vs Bangladesh,England,Reece Topley,11,not out,1,2,0,0,50.000
+7,England vs Bangladesh,Bangladesh,Litton Das,1,c Jos Buttler b Chris Woakes,76,66,7,2,115.152
+7,England vs Bangladesh,Bangladesh,Tanzim Hasan,2,c Jonny Bairstow b Reece Topley,1,2,0,0,50.000
+7,England vs Bangladesh,Bangladesh,Najmul Hossain Shanto,3,c Liam Livingstone b Reece Topley,0,1,0,0,0.000
+7,England vs Bangladesh,Bangladesh,Shakib Al Hasan,4,b Reece Topley,1,9,0,0,11.111
+7,England vs Bangladesh,Bangladesh,Mehidy Hasan Miraz,5,c Jos Buttler b Chris Woakes,8,7,1,0,114.286
+7,England vs Bangladesh,Bangladesh,Mushfiqur Rahim,6,c Adil Rashid b Reece Topley,51,64,4,0,79.688
+7,England vs Bangladesh,Bangladesh,Towhid Hridoy,7,c Jos Buttler b Liam Livingstone,39,61,2,0,63.934
+7,England vs Bangladesh,Bangladesh,Mahedi Hasan,8,b Adil Rashid,14,32,1,0,43.750
+7,England vs Bangladesh,Bangladesh,Taskin Ahmed,9,b Sam Curran,15,25,0,1,60.000
+7,England vs Bangladesh,Bangladesh,Shoriful Islam,10,b Mark Wood,12,14,2,0,85.714
+7,England vs Bangladesh,Bangladesh,Mustafizur Rahman,11,not out,3,9,0,0,33.333
+8,Sri Lanka vs Pakistan,Sri Lanka,Pathum Nissanka,1,c Abdullah Shafique b Shadab Khan,51,61,7,1,83.607
+8,Sri Lanka vs Pakistan,Sri Lanka,Kusal Janith Perera,2,c Mohammad Rizwan b Hasan Ali,0,4,0,0,0.000
+8,Sri Lanka vs Pakistan,Sri Lanka,Kusal Mendis,3,c Imam-ul-Haq b Hasan Ali,122,77,14,6,158.442
+8,Sri Lanka vs Pakistan,Sri Lanka,Sadeera Samarawickrama,4,c Mohammad Rizwan b Hasan Ali,108,89,11,2,121.348
+8,Sri Lanka vs Pakistan,Sri Lanka,Charith Asalanka,5,c Mohammad Rizwan b Hasan Ali,1,3,0,0,33.333
+8,Sri Lanka vs Pakistan,Sri Lanka,Dhananjaya de Silva,6,c Shaheen Afridi b Mohammad Nawaz,25,34,3,0,73.529
+8,Sri Lanka vs Pakistan,Sri Lanka,Dasun Shanaka,7,c Babar Azam b Shaheen Afridi,12,18,0,0,66.667
+8,Sri Lanka vs Pakistan,Sri Lanka,Dunith Wellalage,8,c Abdullah Shafique b Haris Rauf,10,8,1,0,125.000
+8,Sri Lanka vs Pakistan,Sri Lanka,Maheesh Theekshana,9,b Haris Rauf,0,4,0,0,0.000
+8,Sri Lanka vs Pakistan,Sri Lanka,Matheesha Pathirana,10,run out,1,3,0,0,33.333
+8,Sri Lanka vs Pakistan,Pakistan,Abdullah Shafique,1,c Dushan Hemantha sub b Matheesha Pathirana,113,103,10,3,109.709
+8,Sri Lanka vs Pakistan,Pakistan,Imam-ul-Haq,2,c Kusal Janith Perera b Dilshan Madushanka,12,12,1,0,100.000
+8,Sri Lanka vs Pakistan,Pakistan,Babar Azam,3,c Sadeera Samarawickrama b Dilshan Madushanka,10,15,1,0,66.667
+8,Sri Lanka vs Pakistan,Pakistan,Mohammad Rizwan,4,not out,131,121,8,3,108.264
+8,Sri Lanka vs Pakistan,Pakistan,Saud Shakeel,5,c Dunith Wellalage b Maheesh Theekshana,31,30,2,0,103.333
+8,Sri Lanka vs Pakistan,Pakistan,Iftikhar Ahmed,6,not out,22,10,4,0,220.000
+9,Afghanistan vs India,Afghanistan,Rahmanullah Gurbaz,1,c Shardul Thakur b Hardik Pandya,21,28,3,1,75.000
+9,Afghanistan vs India,Afghanistan,Ibrahim Zadran,2,c KL Rahul b Jasprit Bumrah,22,28,4,0,78.600
+9,Afghanistan vs India,Afghanistan,Rahmat Shah,3,lbw b Shardul Thakur,16,22,3,0,72.700
+9,Afghanistan vs India,Afghanistan,Hashmatullah Shahidi,4,lbw b Kuldeep Yadav,80,88,8,1,90.900
+9,Afghanistan vs India,Afghanistan,Azmatullah Omarzai,5,b Hardik Pandya,62,69,2,4,89.900
+9,Afghanistan vs India,Afghanistan,Mohammad Nabi,6,lbw b Jasprit Bumrah,19,27,1,0,70.400
+9,Afghanistan vs India,Afghanistan,Najibullah Zadran,7,c Virat Kohli b Jasprit Bumrah,2,8,0,0,25.000
+9,Afghanistan vs India,Afghanistan,Rashid Khan,8,c Kuldeep Yadav b Jasprit Bumrah,16,12,1,1,133.300
+9,Afghanistan vs India,Afghanistan,Mujeeb Ur Rahman,9,not out,10,12,2,0,83.300
+9,Afghanistan vs India,Afghanistan,Naveen-ul-Haq,10,not out,9,8,1,0,112.500
+9,Afghanistan vs India,India,Rohit Sharma,1,b Rashid Khan,131,84,16,5,156.000
+9,Afghanistan vs India,India,Ishan Kishan,2,c Ibrahim Zadran b Rashid Khan,47,47,5,2,100.000
+9,Afghanistan vs India,India,Virat Kohli,3,not out,55,56,6,0,98.200
+9,Afghanistan vs India,India,Shreyas Iyer,4,not out,25,23,1,1,108.700
+10,South Africa vs Australia,South Africa,Quinton de Kock,1,b Glenn Maxwell,109,106,8,5,102.830
+47,South Africa vs Australia,South Africa,Quinton de Kock,1,b Glenn Maxwell,109,106,8,5,102.830
+10,South Africa vs Australia,South Africa,Temba Bavuma,2,c David Warner b Glenn Maxwell,35,55,2,0,63.636
+47,South Africa vs Australia,South Africa,Temba Bavuma,2,c David Warner b Glenn Maxwell,35,55,2,0,63.636
+10,South Africa vs Australia,South Africa,Rassie van der Dussen,3,c Sean Abbott sub b Adam Zampa,26,30,2,0,86.667
+47,South Africa vs Australia,South Africa,Rassie van der Dussen,3,c Sean Abbott sub b Adam Zampa,26,30,2,0,86.667
+10,South Africa vs Australia,South Africa,Aiden Markram,4,c Josh Hazlewood b Pat Cummins,56,44,7,1,127.273
+47,South Africa vs Australia,South Africa,Aiden Markram,4,c Josh Hazlewood b Pat Cummins,56,44,7,1,127.273
+10,South Africa vs Australia,South Africa,Heinrich Klaasen,5,c Josh Inglis b Josh Hazlewood,29,27,3,0,107.407
+47,South Africa vs Australia,South Africa,Heinrich Klaasen,5,c Josh Inglis b Josh Hazlewood,29,27,3,0,107.407
+10,South Africa vs Australia,South Africa,David Miller,6,b Mitchell Starc,17,13,1,1,130.769
+47,South Africa vs Australia,South Africa,David Miller,6,b Mitchell Starc,17,13,1,1,130.769
+10,South Africa vs Australia,South Africa,Marco Jansen,7,c David Warner b Mitchell Starc,26,22,3,1,118.182
+47,South Africa vs Australia,South Africa,Marco Jansen,7,c David Warner b Mitchell Starc,26,22,3,1,118.182
+10,South Africa vs Australia,South Africa,Kagiso Rabada,8,not out,0,1,0,0,0.000
+47,South Africa vs Australia,South Africa,Kagiso Rabada,8,not out,0,1,0,0,0.000
+10,South Africa vs Australia,South Africa,Keshav Maharaj,9,not out,0,2,0,0,0.000
+47,South Africa vs Australia,South Africa,Keshav Maharaj,9,not out,0,2,0,0,0.000
+10,South Africa vs Australia,Australia,Mitchell Marsh,1,c Temba Bavuma b Marco Jansen,7,15,0,0,46.667
+47,South Africa vs Australia,Australia,Mitchell Marsh,1,c Temba Bavuma b Marco Jansen,7,15,0,0,46.667
+10,South Africa vs Australia,Australia,David Warner,2,c Rassie van der Dussen b Lungi Ngidi,13,27,2,0,48.148
+47,South Africa vs Australia,Australia,David Warner,2,c Rassie van der Dussen b Lungi Ngidi,13,27,2,0,48.148
+10,South Africa vs Australia,Australia,Steve Smith,3,lbw b Kagiso Rabada,19,16,4,0,118.750
+47,South Africa vs Australia,Australia,Steve Smith,3,lbw b Kagiso Rabada,19,16,4,0,118.750
+10,South Africa vs Australia,Australia,Marnus Labuschagne,4,c Temba Bavuma b Keshav Maharaj,46,74,3,0,62.162
+47,South Africa vs Australia,Australia,Marnus Labuschagne,4,c Temba Bavuma b Keshav Maharaj,46,74,3,0,62.162
+10,South Africa vs Australia,Australia,Josh Inglis,5,b Kagiso Rabada,5,4,1,0,125.000
+47,South Africa vs Australia,Australia,Josh Inglis,5,b Kagiso Rabada,5,4,1,0,125.000
+10,South Africa vs Australia,Australia,Glenn Maxwell,6,c & b Keshav Maharaj,3,17,0,0,17.647
+47,South Africa vs Australia,Australia,Glenn Maxwell,6,c & b Keshav Maharaj,3,17,0,0,17.647
+10,South Africa vs Australia,Australia,Marcus Stoinis,7,c Quinton de Kock b Kagiso Rabada,5,4,1,0,125.000
+47,South Africa vs Australia,Australia,Marcus Stoinis,7,c Quinton de Kock b Kagiso Rabada,5,4,1,0,125.000
+10,South Africa vs Australia,Australia,Mitchell Starc,8,c Quinton de Kock b Marco Jansen,27,51,3,0,52.941
+47,South Africa vs Australia,Australia,Mitchell Starc,8,c Quinton de Kock b Marco Jansen,27,51,3,0,52.941
+10,South Africa vs Australia,Australia,Pat Cummins,9,c David Miller b Tabraiz Shamsi,22,21,4,0,104.762
+47,South Africa vs Australia,Australia,Pat Cummins,9,c David Miller b Tabraiz Shamsi,22,21,4,0,104.762
+10,South Africa vs Australia,Australia,Adam Zampa,10,not out,11,16,1,0,68.750
+47,South Africa vs Australia,Australia,Adam Zampa,10,not out,11,16,1,0,68.750
+10,South Africa vs Australia,Australia,Josh Hazlewood,11,c Kagiso Rabada b Tabraiz Shamsi,2,2,0,0,100.000
+47,South Africa vs Australia,Australia,Josh Hazlewood,11,c Kagiso Rabada b Tabraiz Shamsi,2,2,0,0,100.000
+10,South Africa vs Australia,South Africa,Quinton de Kock,1,c Pat Cummins b Josh Hazlewood,3,14,0,0,21.429
+47,South Africa vs Australia,South Africa,Quinton de Kock,1,c Pat Cummins b Josh Hazlewood,3,14,0,0,21.429
+10,South Africa vs Australia,South Africa,Temba Bavuma,2,c Josh Inglis b Mitchell Starc,0,4,0,0,0.000
+47,South Africa vs Australia,South Africa,Temba Bavuma,2,c Josh Inglis b Mitchell Starc,0,4,0,0,0.000
+10,South Africa vs Australia,South Africa,Rassie van der Dussen,3,c Steve Smith b Josh Hazlewood,6,31,0,0,19.355
+47,South Africa vs Australia,South Africa,Rassie van der Dussen,3,c Steve Smith b Josh Hazlewood,6,31,0,0,19.355
+10,South Africa vs Australia,South Africa,Aiden Markram,4,c David Warner b Mitchell Starc,10,20,2,0,50.000
+47,South Africa vs Australia,South Africa,Aiden Markram,4,c David Warner b Mitchell Starc,10,20,2,0,50.000
+10,South Africa vs Australia,South Africa,Heinrich Klaasen,5,b Travis Head,47,48,4,2,97.917
+47,South Africa vs Australia,South Africa,Heinrich Klaasen,5,b Travis Head,47,48,4,2,97.917
+10,South Africa vs Australia,South Africa,David Miller,6,c Travis Head b Pat Cummins,101,116,8,5,87.069
+47,South Africa vs Australia,South Africa,David Miller,6,c Travis Head b Pat Cummins,101,116,8,5,87.069
+10,South Africa vs Australia,South Africa,Marco Jansen,7,lbw b Travis Head,0,1,0,0,0.000
+47,South Africa vs Australia,South Africa,Marco Jansen,7,lbw b Travis Head,0,1,0,0,0.000
+10,South Africa vs Australia,South Africa,Gerald Coetzee,8,c Josh Inglis b Pat Cummins,19,39,2,0,48.718
+47,South Africa vs Australia,South Africa,Gerald Coetzee,8,c Josh Inglis b Pat Cummins,19,39,2,0,48.718
+10,South Africa vs Australia,South Africa,Keshav Maharaj,9,c Steve Smith b Mitchell Starc,4,8,0,0,50.000
+47,South Africa vs Australia,South Africa,Keshav Maharaj,9,c Steve Smith b Mitchell Starc,4,8,0,0,50.000
+10,South Africa vs Australia,South Africa,Kagiso Rabada,10,c Glenn Maxwell b Pat Cummins,10,12,0,1,83.333
+47,South Africa vs Australia,South Africa,Kagiso Rabada,10,c Glenn Maxwell b Pat Cummins,10,12,0,1,83.333
+10,South Africa vs Australia,South Africa,Tabraiz Shamsi,11,not out,1,5,0,0,20.000
+47,South Africa vs Australia,South Africa,Tabraiz Shamsi,11,not out,1,5,0,0,20.000
+10,South Africa vs Australia,Australia,Travis Head,1,b Keshav Maharaj,62,48,9,2,129.167
+47,South Africa vs Australia,Australia,Travis Head,1,b Keshav Maharaj,62,48,9,2,129.167
+10,South Africa vs Australia,Australia,David Warner,2,b Aiden Markram,29,18,1,4,161.111
+47,South Africa vs Australia,Australia,David Warner,2,b Aiden Markram,29,18,1,4,161.111
+10,South Africa vs Australia,Australia,Mitchell Marsh,3,c Rassie van der Dussen b Kagiso Rabada,0,6,0,0,0.000
+47,South Africa vs Australia,Australia,Mitchell Marsh,3,c Rassie van der Dussen b Kagiso Rabada,0,6,0,0,0.000
+10,South Africa vs Australia,Australia,Steve Smith,4,c Quinton de Kock b Gerald Coetzee,30,62,2,0,48.387
+47,South Africa vs Australia,Australia,Steve Smith,4,c Quinton de Kock b Gerald Coetzee,30,62,2,0,48.387
+10,South Africa vs Australia,Australia,Marnus Labuschagne,5,lbw b Tabraiz Shamsi,18,31,2,0,58.065
+47,South Africa vs Australia,Australia,Marnus Labuschagne,5,lbw b Tabraiz Shamsi,18,31,2,0,58.065
+10,South Africa vs Australia,Australia,Glenn Maxwell,6,b Tabraiz Shamsi,1,5,0,0,20.000
+47,South Africa vs Australia,Australia,Glenn Maxwell,6,b Tabraiz Shamsi,1,5,0,0,20.000
+10,South Africa vs Australia,Australia,Josh Inglis,7,b Gerald Coetzee,28,49,3,0,57.143
+47,South Africa vs Australia,Australia,Josh Inglis,7,b Gerald Coetzee,28,49,3,0,57.143
+10,South Africa vs Australia,Australia,Mitchell Starc,8,not out,16,38,2,0,42.105
+47,South Africa vs Australia,Australia,Mitchell Starc,8,not out,16,38,2,0,42.105
+10,South Africa vs Australia,Australia,Pat Cummins,9,not out,14,29,2,0,48.276
+47,South Africa vs Australia,Australia,Pat Cummins,9,not out,14,29,2,0,48.276
+11,Bangladesh vs New Zealand,Bangladesh,Litton Das,1,c Matt Henry b Trent Boult,0,1,0,0,0.000
+11,Bangladesh vs New Zealand,Bangladesh,Tanzid Hasan,2,c Devon Conway b Lockie Ferguson,16,17,4,0,94.118
+11,Bangladesh vs New Zealand,Bangladesh,Mehidy Hasan Miraz,3,c Matt Henry b Lockie Ferguson,30,46,4,0,65.217
+11,Bangladesh vs New Zealand,Bangladesh,Najmul Hossain Shanto,4,c Devon Conway b Glenn Phillips,7,8,1,0,87.500
+11,Bangladesh vs New Zealand,Bangladesh,Shakib Al Hasan,5,c Tom Latham b Lockie Ferguson,40,51,3,2,78.431
+11,Bangladesh vs New Zealand,Bangladesh,Mushfiqur Rahim,6,b Matt Henry,66,75,6,2,88.000
+11,Bangladesh vs New Zealand,Bangladesh,Towhid Hridoy,7,c Mitchell Santner b Trent Boult,13,25,0,0,52.000
+11,Bangladesh vs New Zealand,Bangladesh,Mahmudullah,8,not out,41,49,2,2,83.673
+11,Bangladesh vs New Zealand,Bangladesh,Taskin Ahmed,9,c Daryl Mitchell b Mitchell Santner,17,19,0,2,89.474
+11,Bangladesh vs New Zealand,Bangladesh,Mustafizur Rahman,10,c Tom Latham b Matt Henry,4,10,0,0,40.000
+11,Bangladesh vs New Zealand,Bangladesh,Shoriful Islam,11,not out,2,3,0,0,66.667
+11,Bangladesh vs New Zealand,New Zealand,Devon Conway,1,lbw b Shakib Al Hasan,45,59,3,0,76.271
+11,Bangladesh vs New Zealand,New Zealand,Rachin Ravindra,2,c Mushfiqur Rahim b Mustafizur Rahman,9,13,2,0,69.231
+11,Bangladesh vs New Zealand,New Zealand,Kane Williamson,3,Retired Hurt (Not Out),78,107,8,1,72.897
+11,Bangladesh vs New Zealand,New Zealand,Daryl Mitchell,4,not out,89,67,6,4,132.836
+11,Bangladesh vs New Zealand,New Zealand,Glenn Phillips,5,not out,16,11,1,1,145.455
+12,Pakistan vs India,Pakistan,Abdullah Shafique,1,lbw b Mohammed Siraj,20,24,3,0,83.300
+12,Pakistan vs India,Pakistan,Imam-ul-Haq,2,c KL Rahul b Hardik Pandya,36,38,6,0,94.700
+12,Pakistan vs India,Pakistan,Babar Azam,3,b Mohammed Siraj,50,58,7,0,86.200
+12,Pakistan vs India,Pakistan,Mohammad Rizwan,4,b Jasprit Bumrah,49,69,7,0,71.000
+12,Pakistan vs India,Pakistan,Saud Shakeel,5,lbw b Kuldeep Yadav,6,10,0,0,60.000
+12,Pakistan vs India,Pakistan,Iftikhar Ahmed,6,b Kuldeep Yadav,4,4,1,0,100.000
+12,Pakistan vs India,Pakistan,Shadab Khan,7,b Jasprit Bumrah,2,5,0,0,40.000
+12,Pakistan vs India,Pakistan,Mohammad Nawaz,8,c Jasprit Bumrah b Hardik Pandya,4,14,0,0,28.600
+12,Pakistan vs India,Pakistan,Hasan Ali,9,c Shubman Gill b Ravindra Jadeja,12,19,2,0,63.200
+12,Pakistan vs India,Pakistan,Shaheen Afridi,10,not out,2,10,0,0,20.000
+12,Pakistan vs India,Pakistan,Haris Rauf,11,lbw b Ravindra Jadeja,2,6,0,0,33.300
+12,Pakistan vs India,India,Rohit Sharma,1,c Iftikhar Ahmed b Shaheen Afridi,86,63,6,6,136.500
+12,Pakistan vs India,India,Shubman Gill,2,c Shadab Khan b Shaheen Afridi,16,11,4,0,145.500
+12,Pakistan vs India,India,Virat Kohli,3,c Mohammad Nawaz b Hasan Ali,16,18,3,0,88.900
+12,Pakistan vs India,India,Shreyas Iyer,4,not out,53,62,3,2,85.500
+12,Pakistan vs India,India,KL Rahul,5,not out,19,29,2,0,65.500
+13,Afghanistan vs England,Afghanistan,Rahmanullah Gurbaz,1,run out (David Willey sub /Jos Buttler),80,57,8,4,140.351
+13,Afghanistan vs England,Afghanistan,Ibrahim Zadran,2,c Joe Root b Adil Rashid,28,48,3,0,58.333
+13,Afghanistan vs England,Afghanistan,Rahmat Shah,3,st Jos Buttler b Adil Rashid,3,8,0,0,37.500
+13,Afghanistan vs England,Afghanistan,Hashmatullah Shahidi,4,b Joe Root,14,36,0,0,38.889
+13,Afghanistan vs England,Afghanistan,Azmatullah Omarzai,5,c Chris Woakes b Liam Livingstone,19,24,1,1,79.167
+13,Afghanistan vs England,Afghanistan,Ikram Alikhil,6,c Sam Curran b Reece Topley,58,66,3,2,87.879
+13,Afghanistan vs England,Afghanistan,Mohammad Nabi,7,c Joe Root b Mark Wood,9,15,1,0,60.000
+13,Afghanistan vs England,Afghanistan,Rashid Khan,8,c Joe Root b Adil Rashid,23,22,3,0,104.545
+13,Afghanistan vs England,Afghanistan,Mujeeb Ur Rahman,9,c Joe Root b Mark Wood,28,16,3,1,175.000
+13,Afghanistan vs England,Afghanistan,Naveen-ul-Haq,10,run out Jos Buttler,5,6,1,0,83.333
+13,Afghanistan vs England,Afghanistan,Fazalhaq Farooqi,11,not out,2,4,0,0,50.000
+13,Afghanistan vs England,England,Jonny Bairstow,1,lbw b Fazalhaq Farooqi,2,4,0,0,50.000
+13,Afghanistan vs England,England,Dawid Malan,2,c Ibrahim Zadran b Mohammad Nabi,32,39,4,0,82.051
+13,Afghanistan vs England,England,Joe Root,3,b Mujeeb Ur Rahman,11,17,2,0,64.706
+13,Afghanistan vs England,England,Harry Brook,4,c Ikram Alikhil b Mujeeb Ur Rahman,66,61,7,1,108.197
+13,Afghanistan vs England,England,Jos Buttler,5,b Naveen-ul-Haq,9,18,1,0,50.000
+13,Afghanistan vs England,England,Liam Livingstone,6,lbw b Rashid Khan,10,14,1,0,71.429
+13,Afghanistan vs England,England,Sam Curran,7,c Rahmat Shah b Mohammad Nabi,10,23,0,0,43.478
+13,Afghanistan vs England,England,Chris Woakes,8,b Mujeeb Ur Rahman,9,26,1,0,34.615
+13,Afghanistan vs England,England,Adil Rashid,9,c Mohammad Nabi b Rashid Khan,20,13,2,0,153.846
+13,Afghanistan vs England,England,Mark Wood,10,b Rashid Khan,18,22,3,0,81.818
+13,Afghanistan vs England,England,Reece Topley,11,not out,15,7,3,0,214.286
+14,Sri Lanka vs Australia,Sri Lanka,Pathum Nissanka,1,c David Warner b Pat Cummins,61,67,8,0,91.045
+14,Sri Lanka vs Australia,Sri Lanka,Kusal Janith Perera,2,b Pat Cummins,78,82,12,0,95.122
+14,Sri Lanka vs Australia,Sri Lanka,Kusal Mendis,3,c David Warner b Adam Zampa,9,13,0,0,69.231
+14,Sri Lanka vs Australia,Sri Lanka,Sadeera Samarawickrama,4,lbw b Adam Zampa,8,8,1,0,100.000
+14,Sri Lanka vs Australia,Sri Lanka,Charith Asalanka,5,c Marnus Labuschagne b Glenn Maxwell,25,39,0,1,64.103
+14,Sri Lanka vs Australia,Sri Lanka,Dhananjaya de Silva,6,b Mitchell Starc,7,13,1,0,53.846
+14,Sri Lanka vs Australia,Sri Lanka,Dunith Wellalage,7,run out Pat Cummins,2,9,0,0,22.222
+14,Sri Lanka vs Australia,Sri Lanka,Chamika Karunaratne,8,lbw b Adam Zampa,2,11,0,0,18.182
+14,Sri Lanka vs Australia,Sri Lanka,Maheesh Theekshana,9,lbw b Adam Zampa,0,5,0,0,0.000
+14,Sri Lanka vs Australia,Sri Lanka,Lahiru Kumara,10,b Mitchell Starc,4,8,1,0,50.000
+14,Sri Lanka vs Australia,Sri Lanka,Dilshan Madushanka,11,not out,0,6,0,0,0.000
+14,Sri Lanka vs Australia,Australia,Mitchell Marsh,1,run out (Chamika Karunaratne/Kusal Mendis),52,51,9,0,101.961
+14,Sri Lanka vs Australia,Australia,David Warner,2,lbw b Dilshan Madushanka,11,6,0,1,183.333
+14,Sri Lanka vs Australia,Australia,Steve Smith,3,lbw b Dilshan Madushanka,0,5,0,0,0.000
+14,Sri Lanka vs Australia,Australia,Marnus Labuschagne,4,c Chamika Karunaratne b Dilshan Madushanka,40,60,2,0,66.667
+14,Sri Lanka vs Australia,Australia,Josh Inglis,5,c Maheesh Theekshana b Dunith Wellalage,58,59,5,1,98.305
+14,Sri Lanka vs Australia,Australia,Glenn Maxwell,6,not out,31,21,4,2,147.619
+14,Sri Lanka vs Australia,Australia,Marcus Stoinis,7,not out,20,10,2,1,200.000
+15,Netherlands vs South Africa,Netherlands,Vikramjit Singh,1,c Heinrich Klaasen b Kagiso Rabada,2,16,0,0,12.500
+15,Netherlands vs South Africa,Netherlands,Max O'Dowd,2,c Quinton de Kock b Marco Jansen,18,25,4,0,72.000
+15,Netherlands vs South Africa,Netherlands,Colin Ackermann,3,b Gerald Coetzee,12,25,1,0,48.000
+15,Netherlands vs South Africa,Netherlands,Bas de Leede,4,lbw b Kagiso Rabada,2,7,0,0,28.571
+15,Netherlands vs South Africa,Netherlands,Sybrand Engelbrecht,5,c Marco Jansen b Lungi Ngidi,19,37,1,1,51.351
+15,Netherlands vs South Africa,Netherlands,Teja Nidamanuru,6,lbw b Marco Jansen,20,25,3,0,80.000
+15,Netherlands vs South Africa,Netherlands,Scott Edwards,7,not out,78,69,10,1,113.043
+15,Netherlands vs South Africa,Netherlands,Logan van Beek,8,st Quinton de Kock b Keshav Maharaj,10,27,1,0,37.037
+15,Netherlands vs South Africa,Netherlands,Roelof van der Merwe,9,c Quinton de Kock b Lungi Ngidi,29,19,3,1,152.632
+15,Netherlands vs South Africa,Netherlands,Aryan Dutt,10,not out,23,9,0,3,255.556
+15,Netherlands vs South Africa,South Africa,Temba Bavuma,1,b Roelof van der Merwe,16,31,2,1,51.613
+15,Netherlands vs South Africa,South Africa,Quinton de Kock,2,c Scott Edwards b Colin Ackermann,20,22,3,0,90.909
+15,Netherlands vs South Africa,South Africa,Rassie van der Dussen,3,c Aryan Dutt b Roelof van der Merwe,4,7,0,0,57.143
+15,Netherlands vs South Africa,South Africa,Aiden Markram,4,b Paul van Meekeren,1,3,0,0,33.333
+15,Netherlands vs South Africa,South Africa,Heinrich Klaasen,5,c Vikramjit Singh b Logan van Beek,28,28,4,0,100.000
+15,Netherlands vs South Africa,South Africa,David Miller,6,b Logan van Beek,43,52,4,1,82.692
+15,Netherlands vs South Africa,South Africa,Marco Jansen,7,b Paul van Meekeren,9,25,0,0,36.000
+15,Netherlands vs South Africa,South Africa,Gerald Coetzee,8,c Scott Edwards b Bas de Leede,22,23,2,1,95.652
+15,Netherlands vs South Africa,South Africa,Keshav Maharaj,9,c Scott Edwards b Logan van Beek,40,37,5,1,108.108
+15,Netherlands vs South Africa,South Africa,Kagiso Rabada,10,c Sybrand Engelbrecht b Bas de Leede,9,6,0,1,150.000
+15,Netherlands vs South Africa,South Africa,Lungi Ngidi,11,not out,7,24,0,0,29.167
+16,New Zealand vs Afghanistan,New Zealand,Devon Conway,1,lbw b Mujeeb Ur Rahman,20,18,3,0,111.111
+16,New Zealand vs Afghanistan,New Zealand,Will Young,2,c Ikram Alikhil b Azmatullah Omarzai,54,64,4,3,84.375
+16,New Zealand vs Afghanistan,New Zealand,Rachin Ravindra,3,b Azmatullah Omarzai,32,41,2,1,78.049
+16,New Zealand vs Afghanistan,New Zealand,Daryl Mitchell,4,c Ibrahim Zadran b Rashid Khan,1,7,0,0,14.286
+16,New Zealand vs Afghanistan,New Zealand,Tom Latham,5,b Naveen-ul-Haq,68,74,3,2,91.892
+16,New Zealand vs Afghanistan,New Zealand,Glenn Phillips,6,c Rashid Khan b Naveen-ul-Haq,71,80,4,4,88.750
+16,New Zealand vs Afghanistan,New Zealand,Mark Chapman,7,not out,25,12,2,1,208.333
+16,New Zealand vs Afghanistan,New Zealand,Mitchell Santner,8,not out,7,5,1,0,140.000
+16,New Zealand vs Afghanistan,Afghanistan,Rahmanullah Gurbaz,1,b Matt Henry,11,21,0,1,52.381
+16,New Zealand vs Afghanistan,Afghanistan,Ibrahim Zadran,2,c Mitchell Santner b Trent Boult,14,15,2,0,93.333
+16,New Zealand vs Afghanistan,Afghanistan,Rahmat Shah,3,c & b Rachin Ravindra,36,62,1,0,58.065
+16,New Zealand vs Afghanistan,Afghanistan,Hashmatullah Shahidi,4,c Mitchell Santner b Lockie Ferguson,8,29,1,0,27.586
+16,New Zealand vs Afghanistan,Afghanistan,Azmatullah Omarzai,5,c Tom Latham b Trent Boult,27,32,2,0,84.375
+16,New Zealand vs Afghanistan,Afghanistan,Ikram Alikhil,6,not out,19,21,3,0,90.476
+16,New Zealand vs Afghanistan,Afghanistan,Mohammad Nabi,7,b Mitchell Santner,7,9,1,0,77.778
+16,New Zealand vs Afghanistan,Afghanistan,Rashid Khan,8,c Daryl Mitchell b Lockie Ferguson,8,13,0,1,61.538
+16,New Zealand vs Afghanistan,Afghanistan,Mujeeb Ur Rahman,9,c Will Young b Lockie Ferguson,4,3,1,0,133.333
+16,New Zealand vs Afghanistan,Afghanistan,Naveen-ul-Haq,10,c Mark Chapman b Mitchell Santner,0,1,0,0,0.000
+16,New Zealand vs Afghanistan,Afghanistan,Fazalhaq Farooqi,11,c Daryl Mitchell b Mitchell Santner,0,2,0,0,0.000
+17,Bangladesh vs India,Bangladesh,Tanzid Hasan,1,lbw b Kuldeep Yadav,51,43,5,3,118.605
+17,Bangladesh vs India,Bangladesh,Litton Das,2,c Shubman Gill b Ravindra Jadeja,66,82,7,0,80.488
+17,Bangladesh vs India,Bangladesh,Najmul Hossain Shanto,3,lbw b Ravindra Jadeja,8,17,0,0,47.059
+17,Bangladesh vs India,Bangladesh,Mehidy Hasan Miraz,4,c KL Rahul b Mohammed Siraj,3,13,0,0,23.077
+17,Bangladesh vs India,Bangladesh,Towhid Hridoy,5,c Shubman Gill b Shardul Thakur,16,35,0,0,45.714
+17,Bangladesh vs India,Bangladesh,Mushfiqur Rahim,6,c Ravindra Jadeja b Jasprit Bumrah,38,46,1,1,82.609
+17,Bangladesh vs India,Bangladesh,Mahmudullah,7,b Jasprit Bumrah,46,36,3,3,127.778
+17,Bangladesh vs India,Bangladesh,Nasum Ahmed,8,c KL Rahul b Mohammed Siraj,14,18,2,0,77.778
+17,Bangladesh vs India,Bangladesh,Mustafizur Rahman,9,not out,1,7,0,0,14.286
+17,Bangladesh vs India,Bangladesh,Shoriful Islam,10,not out,7,3,0,1,233.333
+17,Bangladesh vs India,India,Rohit Sharma,1,c Towhid Hridoy b Hasan Mahmud,48,40,7,2,120.000
+17,Bangladesh vs India,India,Shubman Gill,2,c Mahmudullah b Mehidy Hasan Miraz,53,55,5,2,96.364
+17,Bangladesh vs India,India,Virat Kohli,3,not out,103,97,6,4,106.186
+17,Bangladesh vs India,India,Shreyas Iyer,4,c Mahmudullah b Mehidy Hasan Miraz,19,25,2,0,76.000
+17,Bangladesh vs India,India,KL Rahul,5,not out,34,34,3,1,100.000
+18,Australia vs Pakistan,Australia,David Warner,1,c Shadab Khan sub b Haris Rauf,163,124,14,9,131.452
+18,Australia vs Pakistan,Australia,Mitchell Marsh,2,c Usama Mir b Shaheen Afridi,121,108,10,9,112.037
+18,Australia vs Pakistan,Australia,Glenn Maxwell,3,c Babar Azam b Shaheen Afridi,0,1,0,0,0.000
+18,Australia vs Pakistan,Australia,Steve Smith,4,c & b Usama Mir,7,9,0,0,77.778
+18,Australia vs Pakistan,Australia,Marcus Stoinis,5,lbw b Shaheen Afridi,21,24,1,1,87.500
+18,Australia vs Pakistan,Australia,Josh Inglis,6,c Mohammad Rizwan b Haris Rauf,13,9,3,0,144.444
+18,Australia vs Pakistan,Australia,Marnus Labuschagne,7,c Shadab Khan sub b Haris Rauf,8,12,1,0,66.667
+18,Australia vs Pakistan,Australia,Pat Cummins,8,run out,6,8,0,0,75.000
+18,Australia vs Pakistan,Australia,Mitchell Starc,9,c Saud Shakeel b Shaheen Afridi,2,3,0,0,66.667
+18,Australia vs Pakistan,Australia,Josh Hazlewood,10,c Mohammad Rizwan b Shaheen Afridi,0,1,0,0,0.000
+18,Australia vs Pakistan,Australia,Adam Zampa,11,run out,1,1,0,0,100.000
+18,Australia vs Pakistan,Pakistan,Abdullah Shafique,1,c Glenn Maxwell b Marcus Stoinis,64,61,7,2,104.918
+18,Australia vs Pakistan,Pakistan,Imam-ul-Haq,2,c Mitchell Starc b Marcus Stoinis,70,71,10,0,98.592
+18,Australia vs Pakistan,Pakistan,Babar Azam,3,c Pat Cummins b Adam Zampa,18,14,3,0,128.571
+18,Australia vs Pakistan,Pakistan,Mohammad Rizwan,4,lbw b Adam Zampa,46,40,5,0,115.000
+18,Australia vs Pakistan,Pakistan,Saud Shakeel,5,c Marcus Stoinis b Pat Cummins,30,31,5,0,96.774
+18,Australia vs Pakistan,Pakistan,Iftikhar Ahmed,6,lbw b Adam Zampa,26,20,0,3,130.000
+18,Australia vs Pakistan,Pakistan,Mohammad Nawaz,7,st Josh Inglis b Adam Zampa,14,16,0,1,87.500
+18,Australia vs Pakistan,Pakistan,Usama Mir,8,c Mitchell Starc b Josh Hazlewood,0,3,0,0,0.000
+18,Australia vs Pakistan,Pakistan,Shaheen Afridi,9,c Marnus Labuschagne b Pat Cummins,10,8,2,0,125.000
+18,Australia vs Pakistan,Pakistan,Hasan Ali,10,c Josh Inglis b Mitchell Starc,8,8,2,0,100.000
+18,Australia vs Pakistan,Pakistan,Haris Rauf,11,not out,0,1,0,0,0.000
+19,Netherlands vs Sri Lanka,Netherlands,Vikramjit Singh,1,lbw b Kasun Rajitha,4,13,1,0,30.769
+19,Netherlands vs Sri Lanka,Netherlands,Max O'Dowd,2,b Kasun Rajitha,16,27,1,1,59.259
+19,Netherlands vs Sri Lanka,Netherlands,Colin Ackermann,3,c Kusal Mendis b Kasun Rajitha,29,31,5,0,93.548
+19,Netherlands vs Sri Lanka,Netherlands,Bas de Leede,4,c Kusal Janith Perera b Dilshan Madushanka,6,21,0,0,28.571
+19,Netherlands vs Sri Lanka,Netherlands,Teja Nidamanuru,5,lbw b Dilshan Madushanka,9,16,0,0,56.250
+19,Netherlands vs Sri Lanka,Netherlands,Scott Edwards,6,b Maheesh Theekshana,16,16,0,0,100.000
+19,Netherlands vs Sri Lanka,Netherlands,Sybrand Engelbrecht,7,b Dilshan Madushanka,70,82,4,1,85.366
+19,Netherlands vs Sri Lanka,Netherlands,Logan van Beek,8,c Charith Asalanka b Kasun Rajitha,59,75,1,1,78.667
+19,Netherlands vs Sri Lanka,Netherlands,Roelof van der Merwe,9,c Kusal Mendis b Dilshan Madushanka,7,7,0,0,100.000
+19,Netherlands vs Sri Lanka,Netherlands,Aryan Dutt,10,not out,9,6,1,0,150.000
+19,Netherlands vs Sri Lanka,Netherlands,Paul van Meekeren,11,run out (Kusal Mendis/Dilshan Madushanka),4,5,0,0,80.000
+19,Netherlands vs Sri Lanka,Sri Lanka,Pathum Nissanka,1,c Scott Edwards b Paul van Meekeren,54,52,9,0,103.846
+19,Netherlands vs Sri Lanka,Sri Lanka,Kusal Janith Perera,2,c Bas de Leede b Aryan Dutt,5,8,1,0,62.500
+19,Netherlands vs Sri Lanka,Sri Lanka,Kusal Mendis,3,c Paul van Meekeren b Aryan Dutt,11,17,2,0,64.706
+19,Netherlands vs Sri Lanka,Sri Lanka,Sadeera Samarawickrama,4,not out,91,107,7,0,85.047
+19,Netherlands vs Sri Lanka,Sri Lanka,Charith Asalanka,5,b Aryan Dutt,44,66,2,1,66.667
+19,Netherlands vs Sri Lanka,Sri Lanka,Dhananjaya de Silva,6,b Colin Ackermann,30,37,1,2,81.081
+19,Netherlands vs Sri Lanka,Sri Lanka,Dushan Hemantha,7,not out,4,3,1,0,133.333
+20,South Africa vs England,South Africa,Quinton de Kock,1,c Jos Buttler b Reece Topley,4,2,1,0,200.000
+20,South Africa vs England,South Africa,Reeza Hendricks,2,b Adil Rashid,85,75,9,3,113.333
+20,South Africa vs England,South Africa,Rassie van der Dussen,3,c Jonny Bairstow b Adil Rashid,60,61,8,0,98.361
+20,South Africa vs England,South Africa,Aiden Markram,4,c Jonny Bairstow b Reece Topley,42,44,4,0,95.455
+20,South Africa vs England,South Africa,Heinrich Klaasen,5,b Gus Atkinson,109,67,12,4,162.687
+20,South Africa vs England,South Africa,David Miller,6,c Ben Stokes b Reece Topley,5,6,1,0,83.333
+20,South Africa vs England,South Africa,Marco Jansen,7,not out,75,42,3,6,178.571
+20,South Africa vs England,South Africa,Gerald Coetzee,8,c Liam Livingstone sub b Gus Atkinson,3,3,0,0,100.000
+20,South Africa vs England,South Africa,Keshav Maharaj,9,not out,1,1,0,0,100.000
+20,South Africa vs England,England,Jonny Bairstow,1,c Rassie van der Dussen b Lungi Ngidi,10,12,1,1,83.300
+20,South Africa vs England,England,Dawid Malan,2,c Quinton de Kock b Marco Jansen,6,11,1,0,54.500
+20,South Africa vs England,England,Joe Root,3,c David Miller b Marco Jansen,2,6,0,0,33.300
+20,South Africa vs England,England,Ben Stokes,4,c & b Kagiso Rabada,5,8,1,0,62.500
+20,South Africa vs England,England,Harry Brook,5,lbw b Gerald Coetzee,17,25,2,1,68.000
+20,South Africa vs England,England,Jos Buttler,6,c Quinton de Kock b Gerald Coetzee,15,7,2,1,214.300
+20,South Africa vs England,England,David Willey,7,c Kagiso Rabada b Lungi Ngidi,12,12,1,1,100.000
+20,South Africa vs England,England,Adil Rashid,8,c Reeza Hendricks b Gerald Coetzee,10,14,1,0,71.400
+20,South Africa vs England,England,Gus Atkinson,9,b Keshav Maharaj,35,21,7,0,166.700
+20,South Africa vs England,England,Mark Wood,10,not out,43,17,2,5,252.900
+20,South Africa vs England,England,Reece Topley,11,Hurt Absent,0,0,0,0,---
+21,New Zealand vs India,New Zealand,Devon Conway,1,c Shreyas Iyer b Mohammed Siraj,0,9,0,0,0.000
+21,New Zealand vs India,New Zealand,Will Young,2,b Mohammed Shami,17,27,3,0,62.963
+21,New Zealand vs India,New Zealand,Rachin Ravindra,3,c Shubman Gill b Mohammed Shami,75,87,6,1,86.207
+21,New Zealand vs India,New Zealand,Daryl Mitchell,4,c Virat Kohli b Mohammed Shami,130,127,9,5,102.362
+21,New Zealand vs India,New Zealand,Tom Latham,5,lbw b Kuldeep Yadav,5,7,1,0,71.429
+21,New Zealand vs India,New Zealand,Glenn Phillips,6,c Rohit Sharma b Kuldeep Yadav,23,26,0,1,88.462
+21,New Zealand vs India,New Zealand,Mark Chapman,7,c Virat Kohli b Jasprit Bumrah,6,8,0,0,75.000
+21,New Zealand vs India,New Zealand,Mitchell Santner,8,b Mohammed Shami,1,2,0,0,50.000
+21,New Zealand vs India,New Zealand,Matt Henry,9,b Mohammed Shami,0,1,0,0,0.000
+21,New Zealand vs India,New Zealand,Lockie Ferguson,10,run out KL Rahul,1,5,0,0,20.000
+21,New Zealand vs India,New Zealand,Trent Boult,11,run out,0,1,0,0,0.000
+21,New Zealand vs India,India,Rohit Sharma,1,b Lockie Ferguson,46,40,4,4,115.000
+21,New Zealand vs India,India,Shubman Gill,2,c Daryl Mitchell b Lockie Ferguson,26,31,5,0,83.900
+21,New Zealand vs India,India,Virat Kohli,3,c Glenn Phillips b Matt Henry,95,104,8,2,91.300
+21,New Zealand vs India,India,Shreyas Iyer,4,c Devon Conway b Trent Boult,33,29,6,0,113.800
+21,New Zealand vs India,India,KL Rahul,5,lbw b Mitchell Santner,27,35,3,0,77.100
+21,New Zealand vs India,India,Suryakumar Yadav,6,run out (Mitchell Santner/Trent Boult/Tom Latham),2,4,0,0,50.000
+21,New Zealand vs India,India,Ravindra Jadeja,7,not out,39,44,3,1,88.600
+21,New Zealand vs India,India,Mohammed Shami,8,not out,1,1,0,0,100.000
+22,Pakistan vs Afghanistan,Pakistan,Abdullah Shafique,1,lbw b Noor Ahmad,58,75,5,2,77.333
+22,Pakistan vs Afghanistan,Pakistan,Imam-ul-Haq,2,c Naveen-ul-Haq b Azmatullah Omarzai,17,22,2,0,77.273
+22,Pakistan vs Afghanistan,Pakistan,Babar Azam,3,c Mohammad Nabi b Noor Ahmad,74,92,4,1,80.435
+22,Pakistan vs Afghanistan,Pakistan,Mohammad Rizwan,4,c Mujeeb Ur Rahman b Noor Ahmad,8,10,0,1,80.000
+22,Pakistan vs Afghanistan,Pakistan,Saud Shakeel,5,c Rashid Khan b Mohammad Nabi,25,34,3,0,73.529
+22,Pakistan vs Afghanistan,Pakistan,Shadab Khan,6,c Mohammad Nabi b Naveen-ul-Haq,40,38,1,1,105.263
+22,Pakistan vs Afghanistan,Pakistan,Iftikhar Ahmed,7,c Azmatullah Omarzai b Naveen-ul-Haq,40,27,2,4,148.148
+22,Pakistan vs Afghanistan,Pakistan,Shaheen Afridi,8,not out,3,3,0,0,100.000
+22,Pakistan vs Afghanistan,Afghanistan,Rahmanullah Gurbaz,1,c Usama Mir b Shaheen Afridi,65,53,9,1,122.642
+22,Pakistan vs Afghanistan,Afghanistan,Ibrahim Zadran,2,c Mohammad Rizwan b Hasan Ali,87,113,10,0,76.991
+22,Pakistan vs Afghanistan,Afghanistan,Rahmat Shah,3,not out,77,84,5,2,91.667
+22,Pakistan vs Afghanistan,Afghanistan,Hashmatullah Shahidi,4,not out,48,45,4,0,106.667
+23,South Africa vs Bangladesh,South Africa,Quinton de Kock,1,c Nasum Ahmed b Hasan Mahmud,174,140,15,7,124.286
+23,South Africa vs Bangladesh,South Africa,Reeza Hendricks,2,b Shoriful Islam,12,19,1,0,63.158
+23,South Africa vs Bangladesh,South Africa,Rassie van der Dussen,3,lbw b Mehidy Hasan Miraz,1,7,0,0,14.286
+23,South Africa vs Bangladesh,South Africa,Aiden Markram,4,c Litton Das b Shakib Al Hasan,60,69,7,0,86.957
+23,South Africa vs Bangladesh,South Africa,Heinrich Klaasen,5,c Mahmudullah b Hasan Mahmud,90,49,2,8,183.673
+23,South Africa vs Bangladesh,South Africa,David Miller,6,not out,34,15,1,4,226.667
+23,South Africa vs Bangladesh,South Africa,Marco Jansen,7,not out,1,1,0,0,100.000
+23,South Africa vs Bangladesh,Bangladesh,Tanzid Hasan,1,c Heinrich Klaasen b Marco Jansen,12,17,1,0,70.588
+23,South Africa vs Bangladesh,Bangladesh,Litton Das,2,lbw b Kagiso Rabada,22,44,3,1,50.000
+23,South Africa vs Bangladesh,Bangladesh,Najmul Hossain Shanto,3,c Heinrich Klaasen b Marco Jansen,0,1,0,0,0.000
+23,South Africa vs Bangladesh,Bangladesh,Shakib Al Hasan,4,c Heinrich Klaasen b Lizaad Williams,1,4,0,0,25.000
+23,South Africa vs Bangladesh,Bangladesh,Mushfiqur Rahim,5,c Andile Phehlukwayo sub b Gerald Coetzee,8,17,1,0,47.059
+23,South Africa vs Bangladesh,Bangladesh,Mahmudullah,6,c Marco Jansen b Gerald Coetzee,111,111,11,4,100.000
+23,South Africa vs Bangladesh,Bangladesh,Mehidy Hasan Miraz,7,c Andile Phehlukwayo sub b Keshav Maharaj,11,19,1,0,57.895
+23,South Africa vs Bangladesh,Bangladesh,Nasum Ahmed,8,c & b Gerald Coetzee,19,19,3,0,100.000
+23,South Africa vs Bangladesh,Bangladesh,Hasan Mahmud,9,c Gerald Coetzee b Kagiso Rabada,15,25,2,0,60.000
+23,South Africa vs Bangladesh,Bangladesh,Mustafizur Rahman,10,c David Miller b Lizaad Williams,11,21,2,0,52.381
+23,South Africa vs Bangladesh,Bangladesh,Shoriful Islam,11,not out,6,4,1,0,150.000
+24,Australia vs Netherlands,Australia,Mitchell Marsh,1,c Colin Ackermann b Logan van Beek,9,15,2,0,60.000
+24,Australia vs Netherlands,Australia,David Warner,2,c Aryan Dutt b Logan van Beek,104,93,11,3,111.828
+24,Australia vs Netherlands,Australia,Steve Smith,3,c Roelof van der Merwe b Aryan Dutt,71,68,9,1,104.412
+24,Australia vs Netherlands,Australia,Marnus Labuschagne,4,c Aryan Dutt b Bas de Leede,62,47,7,2,131.915
+24,Australia vs Netherlands,Australia,Josh Inglis,5,c Sybrand Engelbrecht b Bas de Leede,14,12,1,1,116.667
+24,Australia vs Netherlands,Australia,Glenn Maxwell,6,c Sybrand Engelbrecht b Logan van Beek,106,44,9,8,240.909
+24,Australia vs Netherlands,Australia,Cameron Green,7,run out Sybrand Engelbrecht,8,11,1,0,72.727
+24,Australia vs Netherlands,Australia,Pat Cummins,8,not out,12,9,2,0,133.333
+24,Australia vs Netherlands,Australia,Mitchell Starc,9,c Colin Ackermann b Logan van Beek,0,1,0,0,0.000
+24,Australia vs Netherlands,Australia,Adam Zampa,10,not out,1,1,0,0,100.000
+24,Australia vs Netherlands,Netherlands,Vikramjit Singh,1,run out Glenn Maxwell,25,25,6,0,100.000
+24,Australia vs Netherlands,Netherlands,Max O'Dowd,2,b Mitchell Starc,6,9,1,0,66.667
+24,Australia vs Netherlands,Netherlands,Colin Ackermann,3,lbw b Josh Hazlewood,10,11,2,0,90.909
+24,Australia vs Netherlands,Netherlands,Sybrand Engelbrecht,4,c David Warner b Mitchell Marsh,11,21,1,0,52.381
+24,Australia vs Netherlands,Netherlands,Bas de Leede,5,lbw b Pat Cummins,4,7,1,0,57.143
+24,Australia vs Netherlands,Netherlands,Scott Edwards,6,not out,12,22,0,0,54.545
+24,Australia vs Netherlands,Netherlands,Teja Nidamanuru,7,c Josh Inglis b Mitchell Marsh,14,18,2,0,77.778
+24,Australia vs Netherlands,Netherlands,Logan van Beek,8,c Josh Inglis b Adam Zampa,0,3,0,0,0.000
+24,Australia vs Netherlands,Netherlands,Roelof van der Merwe,9,lbw b Adam Zampa,0,1,0,0,0.000
+24,Australia vs Netherlands,Netherlands,Aryan Dutt,10,lbw b Adam Zampa,1,8,0,0,12.500
+24,Australia vs Netherlands,Netherlands,Paul van Meekeren,11,st Josh Inglis b Adam Zampa,0,1,0,0,0.000
+25,England vs Sri Lanka,England,Jonny Bairstow,1,c Dhananjaya de Silva b Kasun Rajitha,30,31,3,0,96.774
+25,England vs Sri Lanka,England,Dawid Malan,2,c Kusal Mendis b Angelo Mathews,28,25,6,0,112.000
+25,England vs Sri Lanka,England,Joe Root,3,run out (Angelo Mathews/Kusal Mendis),3,10,0,0,30.000
+25,England vs Sri Lanka,England,Ben Stokes,4,c Dushan Hemantha sub b Lahiru Kumara,43,73,6,0,58.904
+25,England vs Sri Lanka,England,Jos Buttler,5,c Kusal Mendis b Lahiru Kumara,8,6,1,0,133.333
+25,England vs Sri Lanka,England,Liam Livingstone,6,lbw b Lahiru Kumara,1,6,0,0,16.667
+25,England vs Sri Lanka,England,Moeen Ali,7,c Kusal Janith Perera b Angelo Mathews,15,15,1,0,100.000
+25,England vs Sri Lanka,England,Chris Woakes,8,c Sadeera Samarawickrama b Kasun Rajitha,0,4,0,0,0.000
+25,England vs Sri Lanka,England,David Willey,9,not out,14,17,1,1,82.353
+25,England vs Sri Lanka,England,Adil Rashid,10,run out Kusal Mendis,2,7,0,0,28.571
+25,England vs Sri Lanka,England,Mark Wood,11,st Kusal Mendis b Maheesh Theekshana,5,6,1,0,83.333
+25,England vs Sri Lanka,Sri Lanka,Pathum Nissanka,1,not out,77,83,7,2,92.771
+25,England vs Sri Lanka,Sri Lanka,Kusal Janith Perera,2,c Ben Stokes b David Willey,4,5,1,0,80.000
+25,England vs Sri Lanka,Sri Lanka,Kusal Mendis,3,c Jos Buttler b David Willey,11,12,2,0,91.667
+25,England vs Sri Lanka,Sri Lanka,Sadeera Samarawickrama,4,not out,65,54,7,1,120.370
+26,Pakistan vs South Africa,Pakistan,Abdullah Shafique,1,c Lungi Ngidi b Marco Jansen,9,17,1,0,52.900
+26,Pakistan vs South Africa,Pakistan,Imam-ul-Haq,2,c Heinrich Klaasen b Marco Jansen,12,18,2,0,66.700
+26,Pakistan vs South Africa,Pakistan,Babar Azam,3,c Quinton de Kock b Tabraiz Shamsi,50,65,4,1,76.900
+26,Pakistan vs South Africa,Pakistan,Mohammad Rizwan,4,c Quinton de Kock b Gerald Coetzee,31,27,4,1,114.800
+26,Pakistan vs South Africa,Pakistan,Iftikhar Ahmed,5,c Heinrich Klaasen b Tabraiz Shamsi,21,31,1,1,67.700
+26,Pakistan vs South Africa,Pakistan,Saud Shakeel,6,c Quinton de Kock b Tabraiz Shamsi,52,52,7,0,100.000
+26,Pakistan vs South Africa,Pakistan,Shadab Khan,7,c Keshav Maharaj b Gerald Coetzee,43,36,3,2,119.400
+26,Pakistan vs South Africa,Pakistan,Mohammad Nawaz,8,c David Miller b Marco Jansen,24,24,1,2,100.000
+26,Pakistan vs South Africa,Pakistan,Shaheen Afridi,9,c Keshav Maharaj b Tabraiz Shamsi,2,4,0,0,50.000
+26,Pakistan vs South Africa,Pakistan,Mohammad Wasim Jr,10,c Quinton de Kock b Lungi Ngidi,7,9,0,1,77.800
+26,Pakistan vs South Africa,Pakistan,Haris Rauf,11,not out,0,1,0,0,0.000
+26,Pakistan vs South Africa,South Africa,Temba Bavuma,1,c Saud Shakeel b Mohammad Wasim Jr,28,27,4,1,103.700
+26,Pakistan vs South Africa,South Africa,Quinton de Kock,2,c Mohammad Wasim Jr b Shaheen Afridi,24,14,5,0,171.400
+26,Pakistan vs South Africa,South Africa,Rassie van der Dussen,3,lbw b Usama Mir,21,39,0,0,53.800
+26,Pakistan vs South Africa,South Africa,Aiden Markram,4,c Babar Azam b Usama Mir,91,93,7,3,97.800
+26,Pakistan vs South Africa,South Africa,Heinrich Klaasen,5,c Usama Mir b Mohammad Wasim Jr,12,10,0,1,120.000
+26,Pakistan vs South Africa,South Africa,David Miller,6,c Mohammad Rizwan b Shaheen Afridi,29,33,2,2,87.900
+26,Pakistan vs South Africa,South Africa,Marco Jansen,7,c Babar Azam b Haris Rauf,20,14,2,1,142.900
+26,Pakistan vs South Africa,South Africa,Gerald Coetzee,8,c Mohammad Rizwan b Shaheen Afridi,10,13,0,0,76.900
+26,Pakistan vs South Africa,South Africa,Keshav Maharaj,9,not out,7,21,1,0,33.300
+26,Pakistan vs South Africa,South Africa,Lungi Ngidi,10,c & b Haris Rauf,4,14,0,0,28.600
+26,Pakistan vs South Africa,South Africa,Tabraiz Shamsi,11,not out,4,6,0,0,66.700
+27,Australia vs New Zealand,Australia,David Warner,1,c & b Glenn Phillips,81,65,5,6,124.600
+27,Australia vs New Zealand,Australia,Travis Head,2,b Glenn Phillips,109,67,10,7,162.700
+27,Australia vs New Zealand,Australia,Mitchell Marsh,3,b Mitchell Santner,36,51,2,0,70.600
+27,Australia vs New Zealand,Australia,Steve Smith,4,c Trent Boult b Glenn Phillips,18,17,2,0,105.900
+27,Australia vs New Zealand,Australia,Marnus Labuschagne,5,c Rachin Ravindra b Mitchell Santner,18,26,2,0,69.200
+27,Australia vs New Zealand,Australia,Glenn Maxwell,6,c Trent Boult b Jimmy Neesham,41,24,5,2,170.800
+27,Australia vs New Zealand,Australia,Josh Inglis,7,c Glenn Phillips b Trent Boult,38,28,4,1,135.700
+27,Australia vs New Zealand,Australia,Pat Cummins,8,lbw b Trent Boult,37,14,2,4,264.300
+27,Australia vs New Zealand,Australia,Mitchell Starc,9,c Jimmy Neesham b Matt Henry,1,3,0,0,33.300
+27,Australia vs New Zealand,Australia,Adam Zampa,10,b Trent Boult,0,3,0,0,0.000
+27,Australia vs New Zealand,Australia,Josh Hazlewood,11,not out,0,0,0,0,---
+27,Australia vs New Zealand,New Zealand,Devon Conway,1,c Mitchell Starc b Josh Hazlewood,28,17,6,0,164.700
+27,Australia vs New Zealand,New Zealand,Will Young,2,c Mitchell Starc b Josh Hazlewood,32,37,4,1,86.500
+27,Australia vs New Zealand,New Zealand,Rachin Ravindra,3,c Marnus Labuschagne b Pat Cummins,116,89,9,5,130.300
+27,Australia vs New Zealand,New Zealand,Daryl Mitchell,4,c Mitchell Starc b Adam Zampa,54,51,6,1,105.900
+27,Australia vs New Zealand,New Zealand,Tom Latham,5,c Josh Hazlewood b Adam Zampa,21,22,2,0,95.500
+27,Australia vs New Zealand,New Zealand,Glenn Phillips,6,c Marnus Labuschagne b Glenn Maxwell,12,16,1,0,75.000
+27,Australia vs New Zealand,New Zealand,Jimmy Neesham,7,run out (Marnus Labuschagne/Josh Inglis),58,39,3,3,148.700
+27,Australia vs New Zealand,New Zealand,Mitchell Santner,8,c Glenn Maxwell b Adam Zampa,17,12,1,1,141.700
+27,Australia vs New Zealand,New Zealand,Matt Henry,9,c Josh Hazlewood b Pat Cummins,9,8,1,0,112.500
+27,Australia vs New Zealand,New Zealand,Trent Boult,10,not out,10,8,0,1,125.000
+27,Australia vs New Zealand,New Zealand,Lockie Ferguson,11,not out,0,1,0,0,0.000
+28,Netherlands vs Bangladesh,Netherlands,Vikramjit Singh,1,c Shakib Al Hasan b Taskin Ahmed,3,9,0,0,33.300
+28,Netherlands vs Bangladesh,Netherlands,Max O'Dowd,2,c Tanzid Hasan b Shoriful Islam,0,3,0,0,0.000
+28,Netherlands vs Bangladesh,Netherlands,Wesley Barresi,3,c Shakib Al Hasan b Mustafizur Rahman,41,41,8,0,100.000
+28,Netherlands vs Bangladesh,Netherlands,Colin Ackermann,4,c Mustafizur Rahman b Shakib Al Hasan,15,33,1,0,45.500
+28,Netherlands vs Bangladesh,Netherlands,Scott Edwards,5,c Mehidy Hasan Miraz b Mustafizur Rahman,68,89,6,0,76.400
+28,Netherlands vs Bangladesh,Netherlands,Bas de Leede,6,c Mushfiqur Rahim b Taskin Ahmed,17,32,2,0,53.100
+28,Netherlands vs Bangladesh,Netherlands,Sybrand Engelbrecht,7,lbw b Mahedi Hasan,35,61,3,0,57.400
+28,Netherlands vs Bangladesh,Netherlands,Logan van Beek,8,not out,23,16,2,1,143.800
+28,Netherlands vs Bangladesh,Netherlands,Shariz Ahmad,9,run out (Mahmudullah/Mushfiqur Rahim),6,8,0,0,75.000
+28,Netherlands vs Bangladesh,Netherlands,Aryan Dutt,10,c Mehidy Hasan Miraz b Shoriful Islam,9,6,0,1,150.000
+28,Netherlands vs Bangladesh,Netherlands,Paul van Meekeren,11,lbw b Mahedi Hasan,0,2,0,0,0.000
+28,Netherlands vs Bangladesh,Bangladesh,Litton Das,1,c Scott Edwards b Aryan Dutt,3,12,0,0,25.000
+28,Netherlands vs Bangladesh,Bangladesh,Tanzid Hasan,2,c Scott Edwards b Logan van Beek,15,16,3,0,93.800
+28,Netherlands vs Bangladesh,Bangladesh,Mehidy Hasan Miraz,3,c Scott Edwards b Logan van Beek,35,40,5,1,87.500
+28,Netherlands vs Bangladesh,Bangladesh,Najmul Hossain Shanto,4,c Logan van Beek b Paul van Meekeren,9,18,2,0,50.000
+28,Netherlands vs Bangladesh,Bangladesh,Shakib Al Hasan,5,c Scott Edwards b Paul van Meekeren,5,14,0,0,35.700
+28,Netherlands vs Bangladesh,Bangladesh,Mushfiqur Rahim,6,b Paul van Meekeren,1,5,0,0,20.000
+28,Netherlands vs Bangladesh,Bangladesh,Mahmudullah,7,c Aryan Dutt b Bas de Leede,20,41,2,0,48.800
+28,Netherlands vs Bangladesh,Bangladesh,Mahedi Hasan,8,run out Bas de Leede,17,38,1,0,44.700
+28,Netherlands vs Bangladesh,Bangladesh,Taskin Ahmed,9,c Bas de Leede b Paul van Meekeren,11,35,1,0,31.400
+28,Netherlands vs Bangladesh,Bangladesh,Mustafizur Rahman,10,b Colin Ackermann,20,35,2,1,57.100
+28,Netherlands vs Bangladesh,Bangladesh,Shoriful Islam,11,not out,0,0,0,0,---
+29,India vs England,India,Rohit Sharma,1,c Liam Livingstone b Adil Rashid,87,101,10,3,86.100
+29,India vs England,India,Shubman Gill,2,b Chris Woakes,9,13,1,0,69.200
+29,India vs England,India,Virat Kohli,3,c Ben Stokes b David Willey,0,9,0,0,0.000
+29,India vs England,India,Shreyas Iyer,4,c Mark Wood b Chris Woakes,4,16,0,0,25.000
+29,India vs England,India,KL Rahul,5,c Jonny Bairstow b David Willey,39,58,3,0,67.200
+29,India vs England,India,Suryakumar Yadav,6,c Chris Woakes b David Willey,49,47,4,1,104.300
+29,India vs England,India,Ravindra Jadeja,7,lbw b Adil Rashid,8,13,0,0,61.500
+29,India vs England,India,Mohammed Shami,8,c Jos Buttler b Mark Wood,1,5,0,0,20.000
+29,India vs England,India,Jasprit Bumrah,9,run out Jos Buttler,16,25,1,0,64.000
+29,India vs England,India,Kuldeep Yadav,10,not out,9,13,1,0,69.200
+29,India vs England,England,Jonny Bairstow,1,b Mohammed Shami,14,23,2,0,60.900
+29,India vs England,England,Dawid Malan,2,b Jasprit Bumrah,16,17,2,1,94.100
+29,India vs England,England,Joe Root,3,lbw b Jasprit Bumrah,0,1,0,0,0.000
+29,India vs England,England,Ben Stokes,4,b Mohammed Shami,0,10,0,0,0.000
+29,India vs England,England,Jos Buttler,5,b Kuldeep Yadav,10,23,1,0,43.500
+29,India vs England,England,Moeen Ali,6,c KL Rahul b Mohammed Shami,15,31,0,0,48.400
+29,India vs England,England,Liam Livingstone,7,lbw b Kuldeep Yadav,27,46,2,0,58.700
+29,India vs England,England,Chris Woakes,8,st KL Rahul b Ravindra Jadeja,10,20,1,0,50.000
+29,India vs England,England,David Willey,9,not out,16,17,0,2,94.100
+29,India vs England,England,Adil Rashid,10,b Mohammed Shami,13,20,2,0,65.000
+29,India vs England,England,Mark Wood,11,b Jasprit Bumrah,0,0,0,0,---
+30,Sri Lanka vs Afghanistan,Sri Lanka,Pathum Nissanka,1,c Rahmanullah Gurbaz b Azmatullah Omarzai,46,60,5,0,76.667
+30,Sri Lanka vs Afghanistan,Sri Lanka,Dimuth Karunaratne,2,lbw b Fazalhaq Farooqi,15,21,1,0,71.429
+30,Sri Lanka vs Afghanistan,Sri Lanka,Kusal Mendis,3,c Najibullah Zadran sub b Mujeeb Ur Rahman,39,50,3,0,78.000
+30,Sri Lanka vs Afghanistan,Sri Lanka,Sadeera Samarawickrama,4,lbw b Mujeeb Ur Rahman,36,40,3,0,90.000
+30,Sri Lanka vs Afghanistan,Sri Lanka,Charith Asalanka,5,c Rashid Khan b Fazalhaq Farooqi,22,28,2,0,78.571
+30,Sri Lanka vs Afghanistan,Sri Lanka,Dhananjaya de Silva,6,b Rashid Khan,14,26,1,0,53.846
+30,Sri Lanka vs Afghanistan,Sri Lanka,Angelo Mathews,7,c Mohammad Nabi b Fazalhaq Farooqi,23,26,1,1,88.462
+30,Sri Lanka vs Afghanistan,Sri Lanka,Dushmantha Chameera,8,run out Ibrahim Zadran,1,4,0,0,25.000
+30,Sri Lanka vs Afghanistan,Sri Lanka,Maheesh Theekshana,9,b Fazalhaq Farooqi,29,31,3,1,93.548
+30,Sri Lanka vs Afghanistan,Sri Lanka,Kasun Rajitha,10,run out Rahmanullah Gurbaz,5,7,0,0,71.429
+30,Sri Lanka vs Afghanistan,Sri Lanka,Dilshan Madushanka,11,not out,0,4,0,0,0.000
+30,Sri Lanka vs Afghanistan,Afghanistan,Rahmanullah Gurbaz,1,b Dilshan Madushanka,0,4,0,0,0.000
+30,Sri Lanka vs Afghanistan,Afghanistan,Ibrahim Zadran,2,c Dimuth Karunaratne b Dilshan Madushanka,39,57,4,1,68.421
+30,Sri Lanka vs Afghanistan,Afghanistan,Rahmat Shah,3,c Dimuth Karunaratne b Kasun Rajitha,62,74,7,0,83.784
+30,Sri Lanka vs Afghanistan,Afghanistan,Hashmatullah Shahidi,4,not out,58,74,2,1,78.378
+30,Sri Lanka vs Afghanistan,Afghanistan,Azmatullah Omarzai,5,not out,73,63,6,3,115.873
+31,Bangladesh vs Pakistan,Bangladesh,Tanzid Hasan,1,lbw b Shaheen Afridi,0,5,0,0,0.000
+31,Bangladesh vs Pakistan,Bangladesh,Litton Das,2,c Agha Salman b Iftikhar Ahmed,45,64,6,0,70.313
+31,Bangladesh vs Pakistan,Bangladesh,Najmul Hossain Shanto,3,c Usama Mir b Shaheen Afridi,4,3,1,0,133.333
+31,Bangladesh vs Pakistan,Bangladesh,Mushfiqur Rahim,4,c Mohammad Rizwan b Haris Rauf,5,8,1,0,62.500
+31,Bangladesh vs Pakistan,Bangladesh,Mahmudullah,5,b Shaheen Afridi,56,70,6,1,80.000
+31,Bangladesh vs Pakistan,Bangladesh,Shakib Al Hasan,6,c Agha Salman b Haris Rauf,43,64,4,0,67.188
+31,Bangladesh vs Pakistan,Bangladesh,Towhid Hridoy,7,c Iftikhar Ahmed b Usama Mir,7,3,0,1,233.333
+31,Bangladesh vs Pakistan,Bangladesh,Mehidy Hasan Miraz,8,b Mohammad Wasim Jr,25,30,1,1,83.333
+31,Bangladesh vs Pakistan,Bangladesh,Taskin Ahmed,9,b Mohammad Wasim Jr,6,13,0,0,46.154
+31,Bangladesh vs Pakistan,Bangladesh,Mustafizur Rahman,10,b Mohammad Wasim Jr,3,7,0,0,42.857
+31,Bangladesh vs Pakistan,Bangladesh,Shoriful Islam,11,not out,1,4,0,0,25.000
+31,Bangladesh vs Pakistan,Pakistan,Abdullah Shafique,1,lbw b Mehidy Hasan Miraz,68,69,9,2,98.551
+31,Bangladesh vs Pakistan,Pakistan,Fakhar Zaman,2,c Towhid Hridoy b Mehidy Hasan Miraz,81,74,3,7,109.459
+31,Bangladesh vs Pakistan,Pakistan,Babar Azam,3,c Mahmudullah b Mehidy Hasan Miraz,9,16,1,0,56.250
+31,Bangladesh vs Pakistan,Pakistan,Mohammad Rizwan,4,not out,26,21,4,0,123.810
+31,Bangladesh vs Pakistan,Pakistan,Iftikhar Ahmed,5,not out,17,15,2,0,113.333
+32,South Africa vs New Zealand,South Africa,Quinton de Kock,1,c Glenn Phillips b Tim Southee,114,116,10,3,98.276
+32,South Africa vs New Zealand,South Africa,Temba Bavuma,2,c Daryl Mitchell b Trent Boult,24,28,4,1,85.714
+32,South Africa vs New Zealand,South Africa,Rassie van der Dussen,3,b Tim Southee,133,118,9,5,112.712
+32,South Africa vs New Zealand,South Africa,David Miller,4,c Daryl Mitchell b Jimmy Neesham,53,30,2,4,176.667
+32,South Africa vs New Zealand,South Africa,Heinrich Klaasen,5,run out,15,7,1,1,214.286
+32,South Africa vs New Zealand,South Africa,Aiden Markram,6,run out,6,1,0,1,600.000
+32,South Africa vs New Zealand,New Zealand,Devon Conway,1,c Aiden Markram b Marco Jansen,2,6,0,0,33.333
+32,South Africa vs New Zealand,New Zealand,Will Young,2,c Quinton de Kock b Gerald Coetzee,33,37,5,0,89.189
+32,South Africa vs New Zealand,New Zealand,Rachin Ravindra,3,c Gerald Coetzee b Marco Jansen,9,16,1,0,56.250
+32,South Africa vs New Zealand,New Zealand,Daryl Mitchell,4,c David Miller b Keshav Maharaj,24,30,4,0,80.000
+32,South Africa vs New Zealand,New Zealand,Tom Latham,5,c Keshav Maharaj b Kagiso Rabada,4,15,0,0,26.667
+32,South Africa vs New Zealand,New Zealand,Glenn Phillips,6,c Kagiso Rabada b Gerald Coetzee,60,50,4,4,120.000
+32,South Africa vs New Zealand,New Zealand,Mitchell Santner,7,b Keshav Maharaj,7,18,1,0,38.889
+32,South Africa vs New Zealand,New Zealand,Tim Southee,8,lbw b Marco Jansen,7,11,1,0,63.636
+32,South Africa vs New Zealand,New Zealand,Jimmy Neesham,9,b Keshav Maharaj,0,8,0,0,0.000
+32,South Africa vs New Zealand,New Zealand,Trent Boult,10,c David Miller b Keshav Maharaj,9,14,1,0,64.286
+32,South Africa vs New Zealand,New Zealand,Matt Henry,11,not out,0,9,0,0,0.000
+33,India vs Sri Lanka,India,Rohit Sharma,1,b Dilshan Madushanka,4,2,1,0,200.000
+33,India vs Sri Lanka,India,Shubman Gill,2,c Kusal Mendis b Dilshan Madushanka,92,92,11,2,100.000
+33,India vs Sri Lanka,India,Virat Kohli,3,c Pathum Nissanka b Dilshan Madushanka,88,94,11,0,93.600
+33,India vs Sri Lanka,India,Shreyas Iyer,4,c Maheesh Theekshana b Dilshan Madushanka,82,56,3,6,146.400
+33,India vs Sri Lanka,India,KL Rahul,5,c Dushan Hemantha b Dushmantha Chameera,21,19,2,0,110.500
+33,India vs Sri Lanka,India,Suryakumar Yadav,6,c Kusal Mendis b Dilshan Madushanka,12,9,2,0,133.300
+33,India vs Sri Lanka,India,Ravindra Jadeja,7,run out (Sadeera Samarawickrama/Kusal Mendis),35,24,1,1,145.800
+33,India vs Sri Lanka,India,Mohammed Shami,8,run out (Kusal Mendis/Kusal Mendis),2,4,0,0,50.000
+33,India vs Sri Lanka,India,Jasprit Bumrah,9,not out,1,1,0,0,100.000
+33,India vs Sri Lanka,Sri Lanka,Pathum Nissanka,1,lbw b Jasprit Bumrah,0,1,0,0,0.000
+33,India vs Sri Lanka,Sri Lanka,Dimuth Karunaratne,2,lbw b Mohammed Siraj,0,1,0,0,0.000
+33,India vs Sri Lanka,Sri Lanka,Kusal Mendis,3,b Mohammed Siraj,1,10,0,0,10.000
+33,India vs Sri Lanka,Sri Lanka,Sadeera Samarawickrama,4,c Shreyas Iyer b Mohammed Siraj,0,4,0,0,0.000
+33,India vs Sri Lanka,Sri Lanka,Charith Asalanka,5,c Ravindra Jadeja b Mohammed Shami,1,24,0,0,4.200
+33,India vs Sri Lanka,Sri Lanka,Angelo Mathews,6,b Mohammed Shami,12,25,1,0,48.000
+33,India vs Sri Lanka,Sri Lanka,Dushan Hemantha,7,c KL Rahul b Mohammed Shami,0,1,0,0,0.000
+33,India vs Sri Lanka,Sri Lanka,Dushmantha Chameera,8,c KL Rahul b Mohammed Shami,0,6,0,0,0.000
+33,India vs Sri Lanka,Sri Lanka,Maheesh Theekshana,9,not out,12,23,2,0,52.200
+33,India vs Sri Lanka,Sri Lanka,Kasun Rajitha,10,c Shubman Gill b Mohammed Shami,14,17,2,0,82.400
+33,India vs Sri Lanka,Sri Lanka,Dilshan Madushanka,11,c Shreyas Iyer b Ravindra Jadeja,5,6,1,0,83.300
+34,Netherlands vs Afghanistan,Netherlands,Wesley Barresi,1,lbw b Mujeeb Ur Rahman,1,4,0,0,25.000
+34,Netherlands vs Afghanistan,Netherlands,Max O'Dowd,2,run out Azmatullah Omarzai,42,40,9,0,105.000
+34,Netherlands vs Afghanistan,Netherlands,Colin Ackermann,3,run out (Rashid Khan/Ikram Alikhil),29,35,4,0,82.857
+34,Netherlands vs Afghanistan,Netherlands,Sybrand Engelbrecht,4,run out (Mohammad Nabi/Ikram Alikhil),58,86,6,0,67.442
+34,Netherlands vs Afghanistan,Netherlands,Scott Edwards,5,run out Ikram Alikhil,0,1,0,0,0.000
+34,Netherlands vs Afghanistan,Netherlands,Bas de Leede,6,c Ikram Alikhil b Mohammad Nabi,3,6,0,0,50.000
+34,Netherlands vs Afghanistan,Netherlands,Saqib Zulfiqar,7,c Ikram Alikhil b Noor Ahmad,3,15,0,0,20.000
+34,Netherlands vs Afghanistan,Netherlands,Logan van Beek,8,st Ikram Alikhil b Mohammad Nabi,2,13,0,0,15.385
+34,Netherlands vs Afghanistan,Netherlands,Roelof van der Merwe,9,c Ibrahim Zadran b Noor Ahmad,11,33,0,0,33.333
+34,Netherlands vs Afghanistan,Netherlands,Aryan Dutt,10,not out,10,22,0,0,45.455
+34,Netherlands vs Afghanistan,Netherlands,Paul van Meekeren,11,lbw b Mohammad Nabi,4,24,0,0,16.667
+34,Netherlands vs Afghanistan,Afghanistan,Rahmanullah Gurbaz,1,,10,11,2,0,90.909
+34,Netherlands vs Afghanistan,Afghanistan,Ibrahim Zadran,2,b Roelof van der Merwe,20,34,2,0,58.824
+34,Netherlands vs Afghanistan,Afghanistan,Rahmat Shah,3,c & b Saqib Zulfiqar,52,54,8,0,96.296
+34,Netherlands vs Afghanistan,Afghanistan,Hashmatullah Shahidi,4,not out,56,64,6,0,87.500
+34,Netherlands vs Afghanistan,Afghanistan,Azmatullah Omarzai,5,not out,31,28,3,0,110.714
+35,New Zealand vs Pakistan,New Zealand,Devon Conway,1,c Mohammad Rizwan b Hasan Ali,35,39,6,0,89.700
+35,New Zealand vs Pakistan,New Zealand,Rachin Ravindra,2,c Saud Shakeel b Mohammad Wasim Jr,108,94,15,1,114.900
+35,New Zealand vs Pakistan,New Zealand,Kane Williamson,3,c Fakhar Zaman b Iftikhar Ahmed,95,79,10,2,120.300
+35,New Zealand vs Pakistan,New Zealand,Daryl Mitchell,4,b Haris Rauf,29,18,4,1,161.100
+35,New Zealand vs Pakistan,New Zealand,Mark Chapman,5,b Mohammad Wasim Jr,39,27,7,0,144.400
+35,New Zealand vs Pakistan,New Zealand,Glenn Phillips,6,b Mohammad Wasim Jr,41,25,4,2,164.000
+35,New Zealand vs Pakistan,New Zealand,Mitchell Santner,7,not out,26,17,0,2,152.900
+35,New Zealand vs Pakistan,New Zealand,Tom Latham,8,not out,2,2,0,0,100.000
+35,New Zealand vs Pakistan,Pakistan,Abdullah Shafique,1,c Kane Williamson b Tim Southee,4,9,1,0,44.400
+35,New Zealand vs Pakistan,Pakistan,Fakhar Zaman,2,not out,126,81,8,11,155.600
+35,New Zealand vs Pakistan,Pakistan,Babar Azam,3,not out,66,63,6,2,104.800
+36,Australia vs England,Australia,Travis Head,1,c Joe Root b Chris Woakes,11,10,1,0,110.000
+36,Australia vs England,Australia,David Warner,2,c David Willey b Chris Woakes,15,16,1,1,93.750
+36,Australia vs England,Australia,Steve Smith,3,c Moeen Ali b Adil Rashid,44,52,3,0,84.615
+36,Australia vs England,Australia,Marnus Labuschagne,4,lbw b Mark Wood,71,83,7,0,85.542
+36,Australia vs England,Australia,Josh Inglis,5,c Moeen Ali b Adil Rashid,3,6,0,0,50.000
+36,Australia vs England,Australia,Cameron Green,6,b David Willey,47,52,5,0,90.385
+36,Australia vs England,Australia,Marcus Stoinis,7,c Jonny Bairstow b Liam Livingstone,35,32,3,2,109.375
+36,Australia vs England,Australia,Pat Cummins,8,c Dawid Malan b Mark Wood,10,13,1,0,76.923
+36,Australia vs England,Australia,Mitchell Starc,9,c Moeen Ali b Chris Woakes,10,13,0,0,76.923
+36,Australia vs England,Australia,Adam Zampa,10,c Jos Buttler b Chris Woakes,29,19,4,0,152.632
+36,Australia vs England,Australia,Josh Hazlewood,11,not out,1,1,0,0,100.000
+36,Australia vs England,England,Jonny Bairstow,1,c Josh Inglis b Mitchell Starc,0,1,0,0,0.000
+36,Australia vs England,England,Dawid Malan,2,c Travis Head b Pat Cummins,50,64,4,1,78.125
+36,Australia vs England,England,Joe Root,3,c Josh Inglis b Mitchell Starc,13,17,2,0,76.471
+36,Australia vs England,England,Ben Stokes,4,c Marcus Stoinis b Adam Zampa,64,90,2,3,71.111
+36,Australia vs England,England,Jos Buttler,5,c Cameron Green b Adam Zampa,1,7,0,0,14.286
+36,Australia vs England,England,Moeen Ali,6,c David Warner b Adam Zampa,42,43,6,0,97.674
+36,Australia vs England,England,Liam Livingstone,7,c Sean Abbott sub b Pat Cummins,2,5,0,0,40.000
+36,Australia vs England,England,Chris Woakes,8,c Marnus Labuschagne b Marcus Stoinis,32,33,4,1,96.970
+36,Australia vs England,England,David Willey,9,c Adam Zampa b Josh Hazlewood,15,14,3,0,107.143
+36,Australia vs England,England,Adil Rashid,10,c Josh Inglis b Josh Hazlewood,20,15,1,1,133.333
+36,Australia vs England,England,Mark Wood,11,not out,0,0,0,0,---
+37,India vs South Africa,India,Rohit Sharma,1,c Temba Bavuma b Kagiso Rabada,40,24,6,2,166.700
+37,India vs South Africa,India,Shubman Gill,2,b Keshav Maharaj,23,24,4,1,95.800
+37,India vs South Africa,India,Virat Kohli,3,not out,101,121,10,0,83.500
+37,India vs South Africa,India,Shreyas Iyer,4,c Aiden Markram b Lungi Ngidi,77,87,7,2,88.500
+37,India vs South Africa,India,KL Rahul,5,c Rassie van der Dussen b Marco Jansen,8,17,0,0,47.100
+37,India vs South Africa,India,Suryakumar Yadav,6,c Quinton de Kock b Tabraiz Shamsi,22,14,5,0,157.100
+37,India vs South Africa,India,Ravindra Jadeja,7,not out,29,15,3,1,193.300
+37,India vs South Africa,South Africa,Quinton de Kock,1,b Mohammed Siraj,5,10,1,0,50.000
+37,India vs South Africa,South Africa,Temba Bavuma,2,b Ravindra Jadeja,11,19,1,0,57.900
+37,India vs South Africa,South Africa,Rassie van der Dussen,3,lbw b Mohammed Shami,13,32,1,0,40.600
+37,India vs South Africa,South Africa,Aiden Markram,4,c KL Rahul b Mohammed Shami,9,6,2,0,150.000
+37,India vs South Africa,South Africa,Heinrich Klaasen,5,lbw b Ravindra Jadeja,1,11,0,0,9.100
+37,India vs South Africa,South Africa,David Miller,6,b Ravindra Jadeja,11,11,2,0,100.000
+37,India vs South Africa,South Africa,Marco Jansen,7,c Ravindra Jadeja b Kuldeep Yadav,14,30,1,0,46.700
+37,India vs South Africa,South Africa,Keshav Maharaj,8,b Ravindra Jadeja,7,11,1,0,63.600
+37,India vs South Africa,South Africa,Kagiso Rabada,9,c & b Ravindra Jadeja,6,26,0,0,23.100
+37,India vs South Africa,South Africa,Lungi Ngidi,10,b Kuldeep Yadav,0,3,0,0,0.000
+37,India vs South Africa,South Africa,Tabraiz Shamsi,11,not out,4,4,1,0,100.000
+38,Sri Lanka vs Bangladesh,Sri Lanka,Pathum Nissanka,1,b Tanzim Hasan,41,36,8,0,113.900
+38,Sri Lanka vs Bangladesh,Sri Lanka,Kusal Janith Perera,2,c Mushfiqur Rahim b Shoriful Islam,4,5,1,0,80.000
+38,Sri Lanka vs Bangladesh,Sri Lanka,Kusal Mendis,3,c Shoriful Islam b Shakib Al Hasan,19,30,1,1,63.300
+38,Sri Lanka vs Bangladesh,Sri Lanka,Sadeera Samarawickrama,4,c Mahmudullah b Shakib Al Hasan,41,42,4,0,97.600
+38,Sri Lanka vs Bangladesh,Sri Lanka,Charith Asalanka,5,c Litton Das b Tanzim Hasan,108,105,6,5,102.900
+38,Sri Lanka vs Bangladesh,Sri Lanka,Angelo Mathews,6,,0,0,0,0,---
+38,Sri Lanka vs Bangladesh,Sri Lanka,Dhananjaya de Silva,7,st Mushfiqur Rahim b Mehidy Hasan Miraz,34,36,4,1,94.400
+38,Sri Lanka vs Bangladesh,Sri Lanka,Maheesh Theekshana,8,c Nasum Ahmed b Shoriful Islam,21,31,3,0,67.700
+38,Sri Lanka vs Bangladesh,Sri Lanka,Dushmantha Chameera,9,run out Mushfiqur Rahim,4,9,0,0,44.400
+38,Sri Lanka vs Bangladesh,Sri Lanka,Kasun Rajitha,10,c Litton Das b Tanzim Hasan,0,2,0,0,0.000
+38,Sri Lanka vs Bangladesh,Sri Lanka,Dilshan Madushanka,11,not out,0,1,0,0,0.000
+38,Sri Lanka vs Bangladesh,Bangladesh,Tanzid Hasan,1,c Pathum Nissanka b Dilshan Madushanka,9,5,2,0,180.000
+38,Sri Lanka vs Bangladesh,Bangladesh,Litton Das,2,lbw b Dilshan Madushanka,23,22,2,2,104.545
+38,Sri Lanka vs Bangladesh,Bangladesh,Najmul Hossain Shanto,3,b Angelo Mathews,90,101,12,0,89.109
+38,Sri Lanka vs Bangladesh,Bangladesh,Shakib Al Hasan,4,c Charith Asalanka b Angelo Mathews,82,65,12,2,126.154
+38,Sri Lanka vs Bangladesh,Bangladesh,Mahmudullah,5,b Maheesh Theekshana,22,23,3,1,95.652
+38,Sri Lanka vs Bangladesh,Bangladesh,Mushfiqur Rahim,6,b Dilshan Madushanka,10,13,1,0,76.923
+38,Sri Lanka vs Bangladesh,Bangladesh,Towhid Hridoy,7,not out,15,7,0,2,214.286
+38,Sri Lanka vs Bangladesh,Bangladesh,Mehidy Hasan Miraz,8,c Charith Asalanka b Maheesh Theekshana,3,5,0,0,60.000
+38,Sri Lanka vs Bangladesh,Bangladesh,Tanzim Hasan,9,not out,5,6,1,0,83.333
+39,Afghanistan vs Australia,Afghanistan,Rahmanullah Gurbaz,1,c Mitchell Starc b Josh Hazlewood,21,25,2,0,84.000
+39,Afghanistan vs Australia,Afghanistan,Ibrahim Zadran,2,not out,129,143,8,3,90.200
+39,Afghanistan vs Australia,Afghanistan,Rahmat Shah,3,c Josh Hazlewood b Glenn Maxwell,30,44,1,0,68.200
+39,Afghanistan vs Australia,Afghanistan,Hashmatullah Shahidi,4,b Mitchell Starc,26,43,2,0,60.500
+39,Afghanistan vs Australia,Afghanistan,Azmatullah Omarzai,5,c Glenn Maxwell b Adam Zampa,22,18,1,2,122.200
+39,Afghanistan vs Australia,Afghanistan,Mohammad Nabi,6,b Josh Hazlewood,12,10,0,1,120.000
+39,Afghanistan vs Australia,Afghanistan,Rashid Khan,7,not out,35,18,2,3,194.400
+39,Afghanistan vs Australia,Australia,David Warner,1,b Azmatullah Omarzai,18,29,3,0,62.100
+39,Afghanistan vs Australia,Australia,Travis Head,2,c Ikram Alikhil b Naveen-ul-Haq,0,2,0,0,0.000
+39,Afghanistan vs Australia,Australia,Mitchell Marsh,3,lbw b Naveen-ul-Haq,24,11,2,2,218.200
+39,Afghanistan vs Australia,Australia,Marnus Labuschagne,4,run out Rahmat Shah,14,28,2,0,50.000
+39,Afghanistan vs Australia,Australia,Josh Inglis,5,c Ibrahim Zadran b Azmatullah Omarzai,0,1,0,0,0.000
+39,Afghanistan vs Australia,Australia,Glenn Maxwell,6,not out,201,128,21,10,157.000
+39,Afghanistan vs Australia,Australia,Marcus Stoinis,7,lbw b Rashid Khan,6,7,1,0,85.700
+39,Afghanistan vs Australia,Australia,Mitchell Starc,8,c Ikram Alikhil b Rashid Khan,3,7,0,0,42.900
+39,Afghanistan vs Australia,Australia,Pat Cummins,9,not out,12,68,1,0,17.600
+40,England vs Netherlands,England,Jonny Bairstow,1,c Paul van Meekeren b Aryan Dutt,15,17,2,0,88.235
+40,England vs Netherlands,England,Dawid Malan,2,run out (Scott Edwards/Logan van Beek),87,74,10,2,117.568
+40,England vs Netherlands,England,Joe Root,3,b Logan van Beek,28,35,1,0,80.000
+40,England vs Netherlands,England,Ben Stokes,4,c Sybrand Engelbrecht b Logan van Beek,108,84,6,6,128.571
+40,England vs Netherlands,England,Harry Brook,5,c Colin Ackermann b Bas de Leede,11,16,2,0,68.750
+40,England vs Netherlands,England,Jos Buttler,6,c Teja Nidamanuru b Paul van Meekeren,5,11,0,0,45.455
+40,England vs Netherlands,England,Moeen Ali,7,c Bas de Leede b Aryan Dutt,4,15,0,0,26.667
+40,England vs Netherlands,England,Chris Woakes,8,c Scott Edwards b Bas de Leede,51,45,5,1,113.333
+40,England vs Netherlands,England,David Willey,9,c Sybrand Engelbrecht b Bas de Leede,6,2,0,1,300.000
+40,England vs Netherlands,England,Gus Atkinson,10,not out,2,1,0,0,200.000
+40,England vs Netherlands,England,Adil Rashid,11,not out,1,1,0,0,100.000
+40,England vs Netherlands,Netherlands,Wesley Barresi,1,run out (Chris Woakes/Moeen Ali),37,62,3,1,59.677
+40,England vs Netherlands,Netherlands,Max O'Dowd,2,c Moeen Ali b Chris Woakes,5,11,1,0,45.455
+40,England vs Netherlands,Netherlands,Colin Ackermann,3,c Jos Buttler b David Willey,0,2,0,0,0.000
+40,England vs Netherlands,Netherlands,Sybrand Engelbrecht,4,c Chris Woakes b David Willey,33,49,3,1,67.347
+40,England vs Netherlands,Netherlands,Scott Edwards,5,c Dawid Malan b Moeen Ali,38,42,3,1,90.476
+40,England vs Netherlands,Netherlands,Bas de Leede,6,b Adil Rashid,10,12,2,0,83.333
+40,England vs Netherlands,Netherlands,Teja Nidamanuru,7,not out,41,34,2,3,120.588
+40,England vs Netherlands,Netherlands,Logan van Beek,8,c Dawid Malan b Adil Rashid,2,2,0,0,100.000
+40,England vs Netherlands,Netherlands,Roelof van der Merwe,9,c Adil Rashid b Moeen Ali,0,4,0,0,0.000
+40,England vs Netherlands,Netherlands,Aryan Dutt,10,b Adil Rashid,1,3,0,0,33.333
+40,England vs Netherlands,Netherlands,Paul van Meekeren,11,st Jos Buttler b Moeen Ali,4,3,1,0,133.333
+41,Sri Lanka vs New Zealand,Sri Lanka,Pathum Nissanka,1,c Tom Latham b Tim Southee,2,8,0,0,25.000
+41,Sri Lanka vs New Zealand,Sri Lanka,Kusal Janith Perera,2,c Mitchell Santner b Lockie Ferguson,51,28,9,2,182.143
+41,Sri Lanka vs New Zealand,Sri Lanka,Kusal Mendis,3,c Rachin Ravindra b Trent Boult,6,7,1,0,85.714
+41,Sri Lanka vs New Zealand,Sri Lanka,Sadeera Samarawickrama,4,c Daryl Mitchell b Trent Boult,1,2,0,0,50.000
+41,Sri Lanka vs New Zealand,Sri Lanka,Charith Asalanka,5,lbw b Trent Boult,8,8,1,0,100.000
+41,Sri Lanka vs New Zealand,Sri Lanka,Angelo Mathews,6,c Daryl Mitchell b Mitchell Santner,16,27,2,0,59.259
+41,Sri Lanka vs New Zealand,Sri Lanka,Dhananjaya de Silva,7,c Daryl Mitchell b Mitchell Santner,19,24,2,1,79.167
+41,Sri Lanka vs New Zealand,Sri Lanka,Chamika Karunaratne,8,c Tom Latham b Lockie Ferguson,6,17,1,0,35.294
+41,Sri Lanka vs New Zealand,Sri Lanka,Maheesh Theekshana,9,not out,38,91,3,0,41.758
+41,Sri Lanka vs New Zealand,Sri Lanka,Dushmantha Chameera,10,c Trent Boult b Rachin Ravindra,1,20,0,0,5.000
+41,Sri Lanka vs New Zealand,Sri Lanka,Dilshan Madushanka,11,c Tom Latham b Rachin Ravindra,19,48,2,0,39.583
+41,Sri Lanka vs New Zealand,New Zealand,Devon Conway,1,c Dhananjaya de Silva b Dushmantha Chameera,45,42,9,0,107.143
+41,Sri Lanka vs New Zealand,New Zealand,Rachin Ravindra,2,c Dhananjaya de Silva b Maheesh Theekshana,42,34,3,3,123.529
+41,Sri Lanka vs New Zealand,New Zealand,Kane Williamson,3,b Angelo Mathews,14,15,2,0,93.333
+41,Sri Lanka vs New Zealand,New Zealand,Daryl Mitchell,4,c Charith Asalanka b Angelo Mathews,43,31,5,2,138.710
+41,Sri Lanka vs New Zealand,New Zealand,Mark Chapman,5,run out (Sadeera Samarawickrama/Angelo Mathews),7,6,1,0,116.667
+41,Sri Lanka vs New Zealand,New Zealand,Glenn Phillips,6,not out,17,10,3,0,170.000
+41,Sri Lanka vs New Zealand,New Zealand,Tom Latham,7,not out,2,2,0,0,100.000
+42,Afghanistan vs South Africa,Afghanistan,Rahmanullah Gurbaz,1,c Heinrich Klaasen b Keshav Maharaj,25,22,3,1,113.636
+42,Afghanistan vs South Africa,Afghanistan,Ibrahim Zadran,2,c Quinton de Kock b Gerald Coetzee,15,30,3,0,50.000
+42,Afghanistan vs South Africa,Afghanistan,Rahmat Shah,3,c David Miller b Lungi Ngidi,26,46,2,0,56.522
+42,Afghanistan vs South Africa,Afghanistan,Hashmatullah Shahidi,4,c Quinton de Kock b Keshav Maharaj,2,7,0,0,28.571
+42,Afghanistan vs South Africa,Afghanistan,Azmatullah Omarzai,5,not out,97,107,7,3,90.654
+42,Afghanistan vs South Africa,Afghanistan,Ikram Alikhil,6,c Quinton de Kock b Gerald Coetzee,12,14,1,1,85.714
+42,Afghanistan vs South Africa,Afghanistan,Mohammad Nabi,7,c Quinton de Kock b Lungi Ngidi,2,3,0,0,66.667
+42,Afghanistan vs South Africa,Afghanistan,Rashid Khan,8,c Quinton de Kock b Andile Phehlukwayo,14,30,0,0,46.667
+42,Afghanistan vs South Africa,Afghanistan,Noor Ahmad,9,c Quinton de Kock b Gerald Coetzee,26,32,4,0,81.250
+42,Afghanistan vs South Africa,Afghanistan,Mujeeb Ur Rahman,10,c Aiden Markram b Gerald Coetzee,8,5,0,1,160.000
+42,Afghanistan vs South Africa,Afghanistan,Naveen-ul-Haq,11,run out Kagiso Rabada,2,4,0,0,50.000
+42,Afghanistan vs South Africa,South Africa,Quinton de Kock,1,lbw b Mohammad Nabi,41,47,2,3,87.234
+42,Afghanistan vs South Africa,South Africa,Temba Bavuma,2,c Rahmanullah Gurbaz b Mujeeb Ur Rahman,23,28,3,0,82.143
+42,Afghanistan vs South Africa,South Africa,Rassie van der Dussen,3,not out,76,95,6,1,80.000
+42,Afghanistan vs South Africa,South Africa,Aiden Markram,4,c Naveen-ul-Haq b Rashid Khan,25,32,1,1,78.125
+42,Afghanistan vs South Africa,South Africa,Heinrich Klaasen,5,b Rashid Khan,10,13,1,0,76.923
+42,Afghanistan vs South Africa,South Africa,David Miller,6,c & b Mohammad Nabi,24,33,1,1,72.727
+42,Afghanistan vs South Africa,South Africa,Andile Phehlukwayo,7,not out,39,37,1,3,105.405
+43,Bangladesh vs Australia,Bangladesh,Tanzid Hasan,1,c & b Sean Abbott,36,34,6,0,105.882
+43,Bangladesh vs Australia,Bangladesh,Litton Das,2,c Marnus Labuschagne b Adam Zampa,36,45,5,0,80.000
+43,Bangladesh vs Australia,Bangladesh,Najmul Hossain Shanto,3,run out (Marnus Labuschagne/Josh Inglis),45,57,6,0,78.947
+43,Bangladesh vs Australia,Bangladesh,Towhid Hridoy,4,c Marnus Labuschagne b Marcus Stoinis,74,79,5,2,93.671
+43,Bangladesh vs Australia,Bangladesh,Mahmudullah,5,run out Marnus Labuschagne,32,28,1,3,114.286
+43,Bangladesh vs Australia,Bangladesh,Mushfiqur Rahim,6,c Pat Cummins b Adam Zampa,21,24,0,1,87.500
+43,Bangladesh vs Australia,Bangladesh,Mehidy Hasan Miraz,7,c Pat Cummins b Sean Abbott,29,20,4,0,145.000
+43,Bangladesh vs Australia,Bangladesh,Nasum Ahmed,8,run out Sean Abbott,7,11,0,0,63.636
+43,Bangladesh vs Australia,Bangladesh,Mahedi Hasan,9,not out,2,3,0,0,66.667
+43,Bangladesh vs Australia,Bangladesh,Taskin Ahmed,10,not out,0,1,0,0,0.000
+43,Bangladesh vs Australia,Australia,Travis Head,1,b Taskin Ahmed,10,11,2,0,90.909
+43,Bangladesh vs Australia,Australia,David Warner,2,c Najmul Hossain Shanto b Mustafizur Rahman,53,61,6,0,86.885
+43,Bangladesh vs Australia,Australia,Mitchell Marsh,3,not out,177,132,17,9,134.091
+43,Bangladesh vs Australia,Australia,Steve Smith,4,not out,63,64,4,1,98.438
+44,England vs Pakistan,England,Dawid Malan,1,c Mohammad Rizwan b Iftikhar Ahmed,31,39,5,0,79.487
+44,England vs Pakistan,England,Jonny Bairstow,2,c Agha Salman b Haris Rauf,59,61,7,1,96.721
+44,England vs Pakistan,England,Joe Root,3,c Shadab Khan b Shaheen Afridi,60,72,4,0,83.333
+44,England vs Pakistan,England,Ben Stokes,4,b Shaheen Afridi,84,76,11,2,110.526
+44,England vs Pakistan,England,Jos Buttler,5,run out Haris Rauf,27,18,3,1,150.000
+44,England vs Pakistan,England,Harry Brook,6,c Shaheen Afridi b Haris Rauf,30,17,2,2,176.471
+44,England vs Pakistan,England,Moeen Ali,7,b Haris Rauf,8,6,0,1,133.333
+44,England vs Pakistan,England,Chris Woakes,8,not out,4,4,1,0,100.000
+44,England vs Pakistan,England,David Willey,9,c Iftikhar Ahmed b Mohammad Wasim Jr,15,5,2,1,300.000
+44,England vs Pakistan,England,Gus Atkinson,10,b Mohammad Wasim Jr,0,1,0,0,0.000
+44,England vs Pakistan,England,Adil Rashid,11,not out,0,1,0,0,0.000
+44,England vs Pakistan,Pakistan,Abdullah Shafique,1,lbw b David Willey,0,2,0,0,0.000
+44,England vs Pakistan,Pakistan,Fakhar Zaman,2,c Ben Stokes b David Willey,1,9,0,0,11.111
+44,England vs Pakistan,Pakistan,Babar Azam,3,c Adil Rashid b Gus Atkinson,38,45,6,0,84.444
+44,England vs Pakistan,Pakistan,Mohammad Rizwan,4,b Moeen Ali,36,51,2,0,70.588
+44,England vs Pakistan,Pakistan,Saud Shakeel,5,b Adil Rashid,29,37,4,0,78.378
+44,England vs Pakistan,Pakistan,Agha Salman,6,c Ben Stokes b David Willey,51,45,6,1,113.333
+44,England vs Pakistan,Pakistan,Iftikhar Ahmed,7,c Dawid Malan b Moeen Ali,3,5,0,0,60.000
+44,England vs Pakistan,Pakistan,Shadab Khan,8,b Adil Rashid,4,7,1,0,57.143
+44,England vs Pakistan,Pakistan,Shaheen Afridi,9,lbw b Gus Atkinson,25,23,3,1,108.696
+44,England vs Pakistan,Pakistan,Mohammad Wasim Jr,10,not out,16,14,2,1,114.286
+44,England vs Pakistan,Pakistan,Haris Rauf,11,c Ben Stokes b Chris Woakes,35,23,3,3,152.174
+45,India vs Netherlands,India,Rohit Sharma,1,c Wesley Barresi b Bas de Leede,61,54,8,2,112.963
+45,India vs Netherlands,India,Shubman Gill,2,c Teja Nidamanuru b Paul van Meekeren,51,32,3,4,159.375
+45,India vs Netherlands,India,Virat Kohli,3,b Roelof van der Merwe,51,56,5,1,91.071
+45,India vs Netherlands,India,Shreyas Iyer,4,not out,128,94,10,5,136.170
+45,India vs Netherlands,India,KL Rahul,5,c Sybrand Engelbrecht b Bas de Leede,102,64,11,4,159.375
+45,India vs Netherlands,India,Suryakumar Yadav,6,not out,2,1,0,0,200.000
+45,India vs Netherlands,Netherlands,Wesley Barresi,1,c KL Rahul b Mohammed Siraj,4,5,0,0,80.000
+45,India vs Netherlands,Netherlands,Max O'Dowd,2,b Ravindra Jadeja,30,42,3,1,71.429
+45,India vs Netherlands,Netherlands,Colin Ackermann,3,lbw b Kuldeep Yadav,35,32,6,0,109.375
+45,India vs Netherlands,Netherlands,Sybrand Engelbrecht,4,b Mohammed Siraj,45,80,4,0,56.250
+45,India vs Netherlands,Netherlands,Scott Edwards,5,c KL Rahul b Virat Kohli,17,30,1,0,56.667
+45,India vs Netherlands,Netherlands,Bas de Leede,6,b Jasprit Bumrah,12,21,1,0,57.143
+45,India vs Netherlands,Netherlands,Teja Nidamanuru,7,c Mohammed Shami b Rohit Sharma,54,39,1,6,138.462
+45,India vs Netherlands,Netherlands,Logan van Beek,8,b Kuldeep Yadav,16,15,2,0,106.667
+45,India vs Netherlands,Netherlands,Roelof van der Merwe,9,c Mohammed Shami b Ravindra Jadeja,16,8,1,2,200.000
+45,India vs Netherlands,Netherlands,Aryan Dutt,10,b Jasprit Bumrah,5,11,0,0,45.455
+45,India vs Netherlands,Netherlands,Paul van Meekeren,11,not out,3,4,0,0,75.000
+46,India vs New Zealand,India,Rohit Sharma,1,c Kane Williamson b Tim Southee,47,29,4,4,162.069
+46,India vs New Zealand,India,Shubman Gill,2,not out,80,66,8,3,121.212
+46,India vs New Zealand,India,Virat Kohli,3,c Devon Conway b Tim Southee,117,113,9,2,103.540
+46,India vs New Zealand,India,Shreyas Iyer,4,c Daryl Mitchell b Trent Boult,105,70,4,8,150.000
+46,India vs New Zealand,India,KL Rahul,5,not out,39,20,5,2,195.000
+46,India vs New Zealand,India,Suryakumar Yadav,6,c Glenn Phillips b Tim Southee,1,2,0,0,50.000
+46,India vs New Zealand,New Zealand,Devon Conway,1,c KL Rahul b Mohammed Shami,13,15,3,0,86.667
+46,India vs New Zealand,New Zealand,Rachin Ravindra,2,c KL Rahul b Mohammed Shami,13,22,3,0,59.091
+46,India vs New Zealand,New Zealand,Kane Williamson,3,c Suryakumar Yadav b Mohammed Shami,69,73,8,1,94.521
+46,India vs New Zealand,New Zealand,Daryl Mitchell,4,c Ravindra Jadeja b Mohammed Shami,134,119,9,7,112.605
+46,India vs New Zealand,New Zealand,Tom Latham,5,lbw b Mohammed Shami,0,2,0,0,0.000
+46,India vs New Zealand,New Zealand,Glenn Phillips,6,c Ravindra Jadeja b Jasprit Bumrah,41,33,4,2,124.242
+46,India vs New Zealand,New Zealand,Mark Chapman,7,c Ravindra Jadeja b Kuldeep Yadav,2,5,0,0,40.000
+46,India vs New Zealand,New Zealand,Mitchell Santner,8,c Rohit Sharma b Mohammed Siraj,9,10,0,0,90.000
+46,India vs New Zealand,New Zealand,Tim Southee,9,c KL Rahul b Mohammed Shami,9,10,1,0,90.000
+46,India vs New Zealand,New Zealand,Trent Boult,10,not out,2,2,0,0,100.000
+46,India vs New Zealand,New Zealand,Lockie Ferguson,11,c KL Rahul b Mohammed Shami,6,3,0,1,200.000
+48,India vs Australia,India,Rohit Sharma,1,c Travis Head b Glenn Maxwell,47,31,4,3,151.613
+48,India vs Australia,India,Shubman Gill,2,c Adam Zampa b Mitchell Starc,4,7,0,0,57.143
+48,India vs Australia,India,Virat Kohli,3,b Pat Cummins,54,63,4,0,85.714
+48,India vs Australia,India,Shreyas Iyer,4,c Josh Inglis b Pat Cummins,4,3,1,0,133.333
+48,India vs Australia,India,KL Rahul,5,c Josh Inglis b Mitchell Starc,66,107,1,0,61.682
+48,India vs Australia,India,Ravindra Jadeja,6,c Josh Inglis b Josh Hazlewood,9,22,0,0,40.909
+48,India vs Australia,India,Suryakumar Yadav,7,c Josh Inglis b Josh Hazlewood,18,28,1,0,64.286
+48,India vs Australia,India,Mohammed Shami,8,c Josh Inglis b Mitchell Starc,6,10,1,0,60.000
+48,India vs Australia,India,Jasprit Bumrah,9,lbw b Adam Zampa,1,3,0,0,33.333
+48,India vs Australia,India,Kuldeep Yadav,10,run out (Marnus Labuschagne/Pat Cummins),10,18,0,0,55.556
+48,India vs Australia,India,Mohammed Siraj,11,not out,9,8,1,0,112.500
+48,India vs Australia,Australia,David Warner,1,c Virat Kohli b Mohammed Shami,7,3,1,0,233.333
+48,India vs Australia,Australia,Travis Head,2,c Shubman Gill b Mohammed Siraj,137,120,15,4,114.167
+48,India vs Australia,Australia,Mitchell Marsh,3,c KL Rahul b Jasprit Bumrah,15,15,1,1,100.000
+48,India vs Australia,Australia,Steve Smith,4,lbw b Jasprit Bumrah,4,9,1,0,44.444
+48,India vs Australia,Australia,Marnus Labuschagne,5,not out,58,110,4,0,52.727
+48,India vs Australia,Australia,Glenn Maxwell,6,not out,2,1,0,0,200.000
